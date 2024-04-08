@@ -1,0 +1,6 @@
+DHCPRELAY=true --- DHCPD_LEASES_FILE=false
+DHCPD_LEASES_FILE=false
+DHCPD_LEASES_FILE=false --- DHCPRELAY=true
+DHCPRELAY=true
+Selected conflicts:
+DHCPRELAY=true --- DHCPD_LEASES_FILE=false

@@ -1,0 +1,6 @@
+SETSEBOOL=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- SETSEBOOL=true
+SETSEBOOL=true
+Selected conflicts:
+SETSEBOOL=true --- SELINUX=false

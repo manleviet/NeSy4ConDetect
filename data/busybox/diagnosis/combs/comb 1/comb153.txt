@@ -1,0 +1,6 @@
+FEATURE_SH_IS_ASH=true --- NOMMU=true
+NOMMU=true
+NOMMU=true --- FEATURE_SH_IS_ASH=true
+FEATURE_SH_IS_ASH=true
+Selected conflicts:
+FEATURE_SH_IS_ASH=true --- NOMMU=true

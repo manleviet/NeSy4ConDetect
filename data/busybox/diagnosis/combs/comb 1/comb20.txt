@@ -1,0 +1,6 @@
+INSMOD=true
+INSMOD=true
+INSMOD=true
+INSMOD=true
+Selected conflicts:
+INSMOD=true

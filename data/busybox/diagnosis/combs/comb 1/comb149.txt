@@ -1,0 +1,6 @@
+SELINUX=false --- GETSEBOOL=true
+GETSEBOOL=true
+GETSEBOOL=true --- SELINUX=false
+SELINUX=false
+Selected conflicts:
+SELINUX=false --- GETSEBOOL=true

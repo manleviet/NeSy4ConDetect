@@ -1,0 +1,6 @@
+SESTATUS=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- SESTATUS=true
+SESTATUS=true
+Selected conflicts:
+SESTATUS=true --- SELINUX=false

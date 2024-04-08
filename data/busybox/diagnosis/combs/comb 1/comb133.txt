@@ -1,0 +1,6 @@
+RESTORECON=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- RESTORECON=true
+RESTORECON=true
+Selected conflicts:
+RESTORECON=true --- SELINUX=false

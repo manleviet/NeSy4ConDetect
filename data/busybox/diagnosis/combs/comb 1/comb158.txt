@@ -1,0 +1,6 @@
+FEATURE_BASH_IS_NONE=false --- FEATURE_BASH_IS_HUSH=false --- NOMMU=true
+NOMMU=true
+NOMMU=true --- FEATURE_BASH_IS_HUSH=false --- FEATURE_BASH_IS_NONE=false
+FEATURE_BASH_IS_NONE=false
+Selected conflicts:
+FEATURE_BASH_IS_NONE=false --- FEATURE_BASH_IS_HUSH=false --- NOMMU=true

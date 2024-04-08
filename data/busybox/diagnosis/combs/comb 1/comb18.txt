@@ -1,0 +1,6 @@
+MD5_SIZE_VS_SPEED=false
+MD5_SIZE_VS_SPEED=false
+MD5_SIZE_VS_SPEED=false
+MD5_SIZE_VS_SPEED=false
+Selected conflicts:
+MD5_SIZE_VS_SPEED=false

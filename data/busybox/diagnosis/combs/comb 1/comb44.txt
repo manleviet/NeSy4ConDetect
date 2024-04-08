@@ -1,0 +1,6 @@
+FIRST_SYSTEM_ID=true --- LAST_SYSTEM_ID=false
+LAST_SYSTEM_ID=false
+LAST_SYSTEM_ID=false --- FIRST_SYSTEM_ID=true
+FIRST_SYSTEM_ID=true
+Selected conflicts:
+FIRST_SYSTEM_ID=true --- LAST_SYSTEM_ID=false

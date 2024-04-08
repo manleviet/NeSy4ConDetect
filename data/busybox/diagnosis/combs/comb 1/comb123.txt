@@ -1,0 +1,6 @@
+FEATURE_TAR_SELINUX=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- FEATURE_TAR_SELINUX=true
+FEATURE_TAR_SELINUX=true
+Selected conflicts:
+FEATURE_TAR_SELINUX=true --- SELINUX=false

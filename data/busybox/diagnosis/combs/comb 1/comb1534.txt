@@ -1,0 +1,7 @@
+FEATURE_VI_MAX_LEN=false --- FEATURE_VI_SET=true --- FEATURE_VI_8BIT=true
+FEATURE_VI_SET=true --- FEATURE_VI_8BIT=true
+FEATURE_VI_8BIT=true --- FEATURE_VI_SET=true --- FEATURE_VI_MAX_LEN=false
+FEATURE_VI_MAX_LEN=false
+Selected conflicts:
+FEATURE_VI_MAX_LEN=false --- FEATURE_VI_SET=true
+FEATURE_VI_MAX_LEN=false --- FEATURE_VI_8BIT=true

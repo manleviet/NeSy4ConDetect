@@ -1,0 +1,6 @@
+GETENFORCE=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- GETENFORCE=true
+GETENFORCE=true
+Selected conflicts:
+GETENFORCE=true --- SELINUX=false

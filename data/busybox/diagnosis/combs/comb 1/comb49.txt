@@ -1,0 +1,6 @@
+SELINUXENABLED=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- SELINUXENABLED=true
+SELINUXENABLED=true
+Selected conflicts:
+SELINUXENABLED=true --- SELINUX=false

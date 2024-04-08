@@ -1,0 +1,6 @@
+SETENFORCE=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- SETENFORCE=true
+SETENFORCE=true
+Selected conflicts:
+SETENFORCE=true --- SELINUX=false

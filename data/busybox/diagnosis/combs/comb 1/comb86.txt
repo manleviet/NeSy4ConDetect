@@ -1,0 +1,6 @@
+LOAD_POLICY=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- LOAD_POLICY=true
+LOAD_POLICY=true
+Selected conflicts:
+LOAD_POLICY=true --- SELINUX=false

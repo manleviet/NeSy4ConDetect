@@ -1,0 +1,6 @@
+UNICODE_WIDE_WCHARS=true --- SUBST_WCHAR=false
+SUBST_WCHAR=false
+SUBST_WCHAR=false --- UNICODE_WIDE_WCHARS=true
+UNICODE_WIDE_WCHARS=true
+Selected conflicts:
+UNICODE_WIDE_WCHARS=true --- SUBST_WCHAR=false

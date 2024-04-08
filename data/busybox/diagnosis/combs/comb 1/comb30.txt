@@ -1,0 +1,6 @@
+MATCHPATHCON=true --- SELINUX=false
+SELINUX=false
+SELINUX=false --- MATCHPATHCON=true
+MATCHPATHCON=true
+Selected conflicts:
+MATCHPATHCON=true --- SELINUX=false

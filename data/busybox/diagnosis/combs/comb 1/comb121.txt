@@ -1,0 +1,6 @@
+FEATURE_VI_COLON=true --- FEATURE_VI_MAX_LEN=false
+FEATURE_VI_MAX_LEN=false
+FEATURE_VI_MAX_LEN=false --- FEATURE_VI_COLON=true
+FEATURE_VI_COLON=true
+Selected conflicts:
+FEATURE_VI_COLON=true --- FEATURE_VI_MAX_LEN=false
