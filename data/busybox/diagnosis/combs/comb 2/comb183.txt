@@ -1,0 +1,7 @@
+DEFAULT_DEPMOD_FILE=false --- INSMOD=true
+DEFAULT_DEPMOD_FILE=false --- INSMOD=true
+DEFAULT_DEPMOD_FILE=false --- INSMOD=true
+DEFAULT_DEPMOD_FILE=false --- INSMOD=true
+Selected conflicts:
+DEFAULT_DEPMOD_FILE=false
+INSMOD=true

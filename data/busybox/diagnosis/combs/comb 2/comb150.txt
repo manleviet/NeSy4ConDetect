@@ -1,0 +1,7 @@
+EXTRA_CFLAGS=false --- MD5_SIZE_VS_SPEED=false
+EXTRA_CFLAGS=false --- MD5_SIZE_VS_SPEED=false
+EXTRA_CFLAGS=false --- MD5_SIZE_VS_SPEED=false
+EXTRA_CFLAGS=false --- MD5_SIZE_VS_SPEED=false
+Selected conflicts:
+EXTRA_CFLAGS=false
+MD5_SIZE_VS_SPEED=false

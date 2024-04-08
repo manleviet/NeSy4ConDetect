@@ -1,0 +1,7 @@
+DEPMOD=true --- MD5_SIZE_VS_SPEED=false
+DEPMOD=true --- MD5_SIZE_VS_SPEED=false
+MD5_SIZE_VS_SPEED=false --- DEPMOD=true
+MD5_SIZE_VS_SPEED=false --- DEPMOD=true
+Selected conflicts:
+DEPMOD=true
+MD5_SIZE_VS_SPEED=false

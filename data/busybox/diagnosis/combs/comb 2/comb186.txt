@@ -1,0 +1,7 @@
+FEATURE_COPYBUF_KB=false --- INSMOD=true
+FEATURE_COPYBUF_KB=false --- INSMOD=true
+FEATURE_COPYBUF_KB=false --- INSMOD=true
+FEATURE_COPYBUF_KB=false --- INSMOD=true
+Selected conflicts:
+FEATURE_COPYBUF_KB=false
+INSMOD=true

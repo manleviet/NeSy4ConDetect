@@ -1,0 +1,7 @@
+DEPMOD=true --- EXTRA_CFLAGS=false
+DEPMOD=true --- EXTRA_CFLAGS=false
+EXTRA_CFLAGS=false --- DEPMOD=true
+EXTRA_CFLAGS=false --- DEPMOD=true
+Selected conflicts:
+DEPMOD=true
+EXTRA_CFLAGS=false

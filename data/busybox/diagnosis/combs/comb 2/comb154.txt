@@ -1,0 +1,7 @@
+RMMOD=true --- FEATURE_2_4_MODULES=true
+RMMOD=true --- FEATURE_2_4_MODULES=true
+FEATURE_2_4_MODULES=true --- RMMOD=true
+FEATURE_2_4_MODULES=true --- RMMOD=true
+Selected conflicts:
+RMMOD=true
+FEATURE_2_4_MODULES=true

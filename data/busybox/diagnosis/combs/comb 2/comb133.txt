@@ -1,0 +1,7 @@
+DEPMOD=true --- FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true
+DEPMOD=true --- FEATURE_SH_IS_HUSH=true
+FEATURE_SH_IS_HUSH=true --- FEATURE_SH_IS_NONE=true --- DEPMOD=true
+FEATURE_SH_IS_NONE=true --- DEPMOD=true
+Selected conflicts:
+DEPMOD=true
+FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true

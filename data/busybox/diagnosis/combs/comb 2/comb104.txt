@@ -1,0 +1,7 @@
+DEPMOD=true --- FEATURE_COPYBUF_KB=false
+DEPMOD=true --- FEATURE_COPYBUF_KB=false
+FEATURE_COPYBUF_KB=false --- DEPMOD=true
+FEATURE_COPYBUF_KB=false --- DEPMOD=true
+Selected conflicts:
+DEPMOD=true
+FEATURE_COPYBUF_KB=false

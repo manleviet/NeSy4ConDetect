@@ -1,0 +1,7 @@
+MD5_SIZE_VS_SPEED=false --- INSMOD=true
+MD5_SIZE_VS_SPEED=false --- INSMOD=true
+MD5_SIZE_VS_SPEED=false --- INSMOD=true
+MD5_SIZE_VS_SPEED=false --- INSMOD=true
+Selected conflicts:
+MD5_SIZE_VS_SPEED=false
+INSMOD=true

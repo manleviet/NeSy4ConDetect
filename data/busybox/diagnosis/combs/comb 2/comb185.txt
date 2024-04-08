@@ -1,0 +1,7 @@
+EXTRA_CFLAGS=false --- INSMOD=true
+EXTRA_CFLAGS=false --- INSMOD=true
+EXTRA_CFLAGS=false --- INSMOD=true
+EXTRA_CFLAGS=false --- INSMOD=true
+Selected conflicts:
+EXTRA_CFLAGS=false
+INSMOD=true

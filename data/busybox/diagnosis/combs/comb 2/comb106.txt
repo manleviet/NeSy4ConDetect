@@ -1,0 +1,7 @@
+RMMOD=true --- CROSS_COMPILER_PREFIX=false
+RMMOD=true --- CROSS_COMPILER_PREFIX=false
+CROSS_COMPILER_PREFIX=false --- RMMOD=true
+CROSS_COMPILER_PREFIX=false --- RMMOD=true
+Selected conflicts:
+RMMOD=true
+CROSS_COMPILER_PREFIX=false

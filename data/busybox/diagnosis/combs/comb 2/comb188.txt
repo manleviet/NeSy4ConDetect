@@ -1,0 +1,7 @@
+FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true --- INSMOD=true
+FEATURE_SH_IS_HUSH=true --- INSMOD=true
+FEATURE_SH_IS_HUSH=true --- FEATURE_SH_IS_NONE=true --- INSMOD=true
+FEATURE_SH_IS_NONE=true --- INSMOD=true
+Selected conflicts:
+FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true
+INSMOD=true

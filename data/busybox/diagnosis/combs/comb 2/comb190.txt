@@ -1,0 +1,7 @@
+FEATURE_2_4_MODULES=true --- INSMOD=true
+FEATURE_2_4_MODULES=true --- INSMOD=true
+FEATURE_2_4_MODULES=true --- INSMOD=true
+FEATURE_2_4_MODULES=true --- INSMOD=true
+Selected conflicts:
+FEATURE_2_4_MODULES=true
+INSMOD=true

@@ -1,0 +1,7 @@
+RMMOD=true --- FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true
+RMMOD=true --- FEATURE_SH_IS_HUSH=true
+FEATURE_SH_IS_HUSH=true --- FEATURE_SH_IS_NONE=true --- RMMOD=true
+FEATURE_SH_IS_NONE=true --- RMMOD=true
+Selected conflicts:
+RMMOD=true
+FEATURE_SH_IS_NONE=true --- FEATURE_SH_IS_HUSH=true
