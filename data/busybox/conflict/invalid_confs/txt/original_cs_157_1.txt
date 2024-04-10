@@ -1,0 +1,1 @@
+FEATURE_SH_IS_ASH=false --- FEATURE_SH_IS_HUSH=false --- FEATURE_SH_IS_NONE=false
