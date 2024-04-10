@@ -1,0 +1,1 @@
+EXTRA_CFLAGS=false --- UDHCPC_DEFAULT_SCRIPT=false

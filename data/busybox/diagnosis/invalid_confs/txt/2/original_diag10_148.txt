@@ -1,0 +1,1 @@
+DEFAULT_DEPMOD_FILE=false --- MD5_SIZE_VS_SPEED=false

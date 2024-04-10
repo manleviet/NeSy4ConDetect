@@ -1,0 +1,1 @@
+FEATURE_2_4_MODULES=true --- MD5_SIZE_VS_SPEED=false

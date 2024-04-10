@@ -1,0 +1,1 @@
+EXTRA_CFLAGS=false --- PASSWORD_MINLEN=false
