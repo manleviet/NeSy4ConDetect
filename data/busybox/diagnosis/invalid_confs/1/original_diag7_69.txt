@@ -1,0 +1,1 @@
+INSTALL_APPLET_DONT=true

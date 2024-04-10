@@ -1,0 +1,1 @@
+FEATURE_VI_READONLY=true

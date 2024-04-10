@@ -1,0 +1,1 @@
+FEATURE_BEEP_FREQ=true
