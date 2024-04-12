@@ -68,7 +68,7 @@ class DIMACSReader:
 
 
 if __name__ == "__main__":
-    fs = glob.glob("../data/busybox/busybox.dimacs")
+    fs = glob.glob("../data/busybox/kb/busybox.dimacs")
     for fn in fs:
         n = DIMACSReader(fn)
         i = 0
