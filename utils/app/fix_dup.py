@@ -1,7 +1,7 @@
 import os
 
 ROOT_PATH = '../../data/busybox'
-folder = "%s/diagnosis/invalid_confs/txt/1" % ROOT_PATH
+folder = "%s/diagnosis/invalid_confs/txt/32" % ROOT_PATH
 
 # read all files with filename starting "conf" in the folder
 files = [f for f in os.listdir(folder) if f.startswith('conf')]
