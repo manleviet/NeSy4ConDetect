@@ -3,6 +3,27 @@ from typing import Dict
 from utils.utils import read_text_file
 
 
+def read_all_leaf_features(path: str) -> Dict[str, int]:
+    """
+    Read all leaf features from an invalid configuration file
+    :param path: path to the file
+    :return: a dictionary with key as the leaf feature name and value as the leaf feature index
+    """
+    lines = read_text_file(path)
+
+    feature_map = {}
+    # loop through all lines
+    index = 0
+    for line in lines:
+        # split the line into elements
+        elements = line.strip().split()
+        if len(elements) >= 2:
+            # key - first element, the name of the leaf feature
+            index += 1
+            feature_map[elements[0]] = index
+
+    return feature_map
+
 def read_all_variables(path: str) -> Dict[str, int]:
     """
     Read all variables from a .dimacs file
@@ -23,7 +44,7 @@ def read_all_variables(path: str) -> Dict[str, int]:
 
     return feature_map
 
-
+# TODO fix for leaf features
 def read_all_variables_onehot(path: str) -> Dict[str, int]:
     """
     Read all variables from a .dimacs file

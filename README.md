@@ -16,8 +16,9 @@ sau khi train thì đầu vào sẽ là một conflict user requirement, dạng 
 đầu ra, mình muốn là một diagnosis, ví dụ, feature11=true và feature12=true là một conflict. Thì nó sẽ có 2 diagnoses là {feature11=true} và {feature12=true}.
 
 ## busybox
+bao gồm tổng cộng 854 features
 
-bao gồm 854 features/variables
+chỉ xét 683 features/variables (leaf features)
 allConflictSets.da chứa 161 conflict sets
 
 Input: invalid_confs.csv
@@ -26,7 +27,7 @@ Output: conflicts.csv
 ## 655
 
 655 rows
-855 columns
+684 columns
 First column - id
 
 one conflict set for each invalid configuration.
@@ -34,7 +35,7 @@ one conflict set for each invalid configuration.
 ## 126725
 
 126725 rows
-855 columns
+684 columns
 First column - id
 
 one invalid configurations have multiple conflict sets.

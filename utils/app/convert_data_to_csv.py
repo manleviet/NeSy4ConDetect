@@ -3,13 +3,13 @@ Read data from both conflict and diagnosis folders
 Convert the data to vectors
 """
 
-from utils.utils import read_paths_file, write_data_to_csv, print_first_n_vectors
+from utils.utils import read_paths_file, write_data_to_csv, print_first_n_vectors, OutputType
 from utils.vector import convert_conf_to_vector, convert_conflict_to_vector
 from utils.index import read_index, print_index_dictionary
 
 ROOT_PATH = '../../data/busybox'
 
-MODEL_INDEX_FILE = '%s/kb/busybox.index' % ROOT_PATH
+MODEL_INDEX_FILE = '%s/kb/busybox_leaf.index' % ROOT_PATH
 DIAGNOSIS_PATHS_FILE = '%s/diagnosis/invalid_confs/invalid_conf_paths.txt' % ROOT_PATH
 CONFLICT_PATHS_FILE = '%s/conflict/invalid_confs/invalid_conf_paths.txt' % ROOT_PATH
 
@@ -32,10 +32,10 @@ total_conflicts = 0
 paths = read_paths_file(CONFLICT_PATHS_FILE)
 
 for invalid_conf_file, conflict_file in paths:
-    invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, 0)
+    invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, OutputType.NORMAL)
     invalid_conf_vectors.append(invalid_conf_vector)
 
-    conflict_vector = convert_conflict_to_vector(0, conflict_file, feature_map, conf_id, 0)
+    conflict_vector = convert_conflict_to_vector(0, conflict_file, feature_map, conf_id, OutputType.NORMAL)
     conflict_vectors.append(conflict_vector)
 
     conf_id += 1
@@ -46,7 +46,7 @@ for invalid_conf_file, conflict_file in paths:
 paths = read_paths_file(DIAGNOSIS_PATHS_FILE)
 
 for invalid_conf_file, conflict_file in paths:
-    invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, 0)
+    invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, OutputType.NORMAL)
 
     # read the conflict file
     with open(conflict_file, 'r') as file:
@@ -54,7 +54,7 @@ for invalid_conf_file, conflict_file in paths:
             # If the line number is greater than or equal to 5 (6th line), print the line
             if j >= 5:
                 # print(line.strip())
-                conflict_vector = convert_conflict_to_vector(1, line, feature_map, conf_id, 0)
+                conflict_vector = convert_conflict_to_vector(1, line, feature_map, conf_id, OutputType.NORMAL)
 
                 invalid_conf_vectors.append(invalid_conf_vector)
                 conflict_vectors.append(conflict_vector)
