@@ -1,9 +1,13 @@
+from enum import Enum
 from typing import Dict, List
 
 from utils.utils import read_and_split
 
+class OutputType(Enum):
+    ONE_HOT = 1
+    NORMAL = 0
 
-def convert_conf_to_vector(conf_file: str, feature_map: Dict[str, int], conf_id: int, output_type: int) \
+def convert_conf_to_vector(conf_file: str, feature_map: Dict[str, int], conf_id: int, output_type: OutputType) \
         -> List[int]:
     """
     Convert a configuration file to a vector
@@ -20,7 +24,7 @@ def convert_conf_to_vector(conf_file: str, feature_map: Dict[str, int], conf_id:
     # read the configuration file
     all_assignments = read_and_split(conf_file, ' ')
     for elements in all_assignments:
-        if output_type == 1:  # one-hot
+        if output_type == OutputType.ONE_HOT:  # one-hot
             # merge two elements into one
             feature = "=".join(elements)
             # if feature not in feature_map:
@@ -33,16 +37,17 @@ def convert_conf_to_vector(conf_file: str, feature_map: Dict[str, int], conf_id:
         index = feature_map.get(feature, None)
         # set 1 to the feature index
         if index is not None:
-            if output_type == 1:
+            if output_type == OutputType.ONE_HOT:
                 conf_vector[int(index)] = 1
             else:
-                conf_vector[int(index)] = 1 if (elements[1] == 'true') else 0
+                # 1 if true, -1 if false, 0 if not present
+                conf_vector[int(index)] = 1 if (elements[1] == 'true') else -1
 
     return conf_vector
 
 
 def convert_conflict_to_vector(source_type: int, conflict_file: str, feature_map: Dict[str, int],
-                               conf_id: int, output_type: int) \
+                               conf_id: int, output_type: OutputType) \
         -> List[int]:
     """
     Convert a conflict file to a one-hot vector
@@ -65,7 +70,7 @@ def convert_conflict_to_vector(source_type: int, conflict_file: str, feature_map
     # loop through all elements
     for element in elements:
         value = 'false'
-        if output_type == 0:
+        if output_type == OutputType.NORMAL:
             parts = element.split('=')
             element = parts[0]
             value = parts[1]
@@ -75,9 +80,10 @@ def convert_conflict_to_vector(source_type: int, conflict_file: str, feature_map
         index = feature_map.get(element, None)
         # set 1 to the feature index
         if index is not None:
-            if output_type == 1:
+            if output_type == OutputType.ONE_HOT:
                 conflict_vector[int(index)] = 1
             else:
-                conflict_vector[int(index)] = 1 if (value == 'true') else 0
+                # 1 if true, -1 if false, 0 if not present
+                conflict_vector[int(index)] = 1 if (value == 'true') else -1
 
     return conflict_vector
