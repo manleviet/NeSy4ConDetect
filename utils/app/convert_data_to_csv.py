@@ -1,5 +1,10 @@
+"""
+Read data from both conflict and diagnosis folders
+Convert the data to vectors
+"""
+
 from utils.utils import read_paths_file, write_data_to_csv, print_first_n_vectors
-from utils.vector import convert_conf_to_vector, convert_conflict_to_vector_onehot
+from utils.vector import convert_conf_to_vector, convert_conflict_to_vector
 from utils.index import read_index, print_index_dictionary
 
 ROOT_PATH = '../../data/busybox'
@@ -30,7 +35,7 @@ for invalid_conf_file, conflict_file in paths:
     invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, 0)
     invalid_conf_vectors.append(invalid_conf_vector)
 
-    conflict_vector = convert_conflict_to_vector_onehot(0, conflict_file, feature_map, conf_id, 0)
+    conflict_vector = convert_conflict_to_vector(0, conflict_file, feature_map, conf_id, 0)
     conflict_vectors.append(conflict_vector)
 
     conf_id += 1
@@ -42,7 +47,6 @@ paths = read_paths_file(DIAGNOSIS_PATHS_FILE)
 
 for invalid_conf_file, conflict_file in paths:
     invalid_conf_vector = convert_conf_to_vector(invalid_conf_file, feature_map, conf_id, 0)
-    invalid_conf_vectors.append(invalid_conf_vector)
 
     # read the conflict file
     with open(conflict_file, 'r') as file:
@@ -50,16 +54,17 @@ for invalid_conf_file, conflict_file in paths:
             # If the line number is greater than or equal to 5 (6th line), print the line
             if j >= 5:
                 # print(line.strip())
-                conflict_vector = convert_conflict_to_vector_onehot(1, line, feature_map, conf_id, 0)
+                conflict_vector = convert_conflict_to_vector(1, line, feature_map, conf_id, 0)
 
+                invalid_conf_vectors.append(invalid_conf_vector)
                 conflict_vectors.append(conflict_vector)
 
                 total_conflicts += 1
 
     conf_id += 1
 
-print(f'Total configurations: {conf_id}')
-print(f'Total line of conflicts: {total_conflicts}')
+print(f'Total configurations: {len(invalid_conf_vectors)}')
+print(f'Total line of conflicts: {len(conflict_vectors)}')
 
 # print the first 5 invalid configurations
 print_first_n_vectors(invalid_conf_vectors, 5)

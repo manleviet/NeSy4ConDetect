@@ -41,8 +41,8 @@ def convert_conf_to_vector(conf_file: str, feature_map: Dict[str, int], conf_id:
     return conf_vector
 
 
-def convert_conflict_to_vector_onehot(source_type: int, conflict_file: str, feature_map: Dict[str, int],
-                                      conf_id: int, output_type: int) \
+def convert_conflict_to_vector(source_type: int, conflict_file: str, feature_map: Dict[str, int],
+                               conf_id: int, output_type: int) \
         -> List[int]:
     """
     Convert a conflict file to a one-hot vector
