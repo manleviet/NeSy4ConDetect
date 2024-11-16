@@ -1,0 +1,1 @@
+Play Brickles=false --- Floor brickles=true
