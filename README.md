@@ -24,7 +24,7 @@ allConflictSets.da chứa 161 conflict sets
 Input: invalid_confs.csv
 Output: conflicts.csv
 
-## 655
+## 655.zip
 
 655 rows
 684 columns
@@ -32,10 +32,33 @@ First column - id
 
 one conflict set for each invalid configuration.
 
-## 126725
+## 126725.zip
 
 126725 rows
 684 columns
+First column - id
+
+one invalid configurations have multiple conflict sets.
+each row is a conflict set.
+
+## arcade-game
+bao gồm tổng cộng 61 features
+
+chỉ xét 47 features/variables (leaf features)
+allConflictSets.da chứa 142 conflict sets
+
+### 410.zip
+
+410 rows
+48 columns
+First column - id
+
+one conflict set for each invalid configuration.
+
+### 48752.zip
+
+48752 rows
+48 columns
 First column - id
 
 one invalid configurations have multiple conflict sets.
