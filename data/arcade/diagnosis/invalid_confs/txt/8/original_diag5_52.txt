@@ -1,0 +1,1 @@
+Save Game=false --- Exit Game=false --- Bowling Game Menu=true --- Size=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true

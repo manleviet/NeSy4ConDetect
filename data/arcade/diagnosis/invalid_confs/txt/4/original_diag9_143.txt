@@ -1,0 +1,1 @@
+Exit Game=false --- Uninstall Game=false --- Size=false --- Bowling Ball=true

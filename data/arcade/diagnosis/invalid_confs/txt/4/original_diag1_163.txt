@@ -1,0 +1,1 @@
+Uninstall Game=false --- Size=false --- Brick=true --- Rack of Pins=true

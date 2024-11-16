@@ -1,0 +1,61 @@
+Arcade Game true
+Use Cases true
+Class Diagram true
+Check Previous Best Score true
+Save Score true
+Save Game true
+Exit Game true
+Install Game true
+Uninstall Game true
+List Game true
+Play Game true
+Game Sprite true
+Puck supply false
+Board true
+Menu true
+Game Menu true
+Play Pong true
+Play Bowling true
+Initialization true
+Sprite Pair false
+Rectangle true
+Movable Sprite true
+Stationary Sprite true
+Brickles Board false
+Bowling Board true
+Pong true
+Brickles false
+Pong Game Menu true
+Brickles Game Menu false
+Animation Loop true
+Size true
+Point true
+Velocity true
+Paddle true
+Puck false
+Bowling Ball true
+Bowling Pin true
+Wall true
+Brick false
+Brick Pile false
+Ceiling brickles false
+Floor brickles false
+Lane false
+Gutter true
+Edge false
+End of Alley true
+Rack of Pins true
+Score Board true
+Floor pong false
+Ceiling pong true
+Dividing Line true
+Top Paddle true
+Bottom Paddle false
+Left pong true
+Right pont true
+Left brickles false
+Right brickles false
+Play Brickles false
+Pong Board false
+Bowling false
+Bowling Game Menu true

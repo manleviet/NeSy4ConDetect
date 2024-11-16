@@ -1,0 +1,1 @@
+Exit Game=false --- Uninstall Game=false --- Brickles Game Menu=true --- Size=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true

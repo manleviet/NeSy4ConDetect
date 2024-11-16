@@ -1,0 +1,1 @@
+Exit Game=false --- Size=false --- Puck=true --- Bowling Ball=true

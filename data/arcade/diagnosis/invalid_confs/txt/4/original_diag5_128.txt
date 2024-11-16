@@ -1,0 +1,1 @@
+Uninstall Game=false --- List Game=false --- Bowling Game Menu=true --- Size=false

@@ -1,0 +1,1 @@
+List Game=false --- Size=false --- Puck=true --- Rack of Pins=true

@@ -1,0 +1,1 @@
+List Game=false --- Animation Loop=false

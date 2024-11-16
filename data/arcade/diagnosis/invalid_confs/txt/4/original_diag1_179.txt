@@ -1,0 +1,1 @@
+Uninstall Game=false --- Puck=true --- Brick=true --- Rack of Pins=true

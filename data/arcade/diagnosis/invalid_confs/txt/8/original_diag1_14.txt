@@ -1,0 +1,1 @@
+Exit Game=false --- Uninstall Game=false --- List Game=false --- Size=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true

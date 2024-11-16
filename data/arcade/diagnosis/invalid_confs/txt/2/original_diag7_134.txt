@@ -1,0 +1,1 @@
+Point=false --- Top Paddle=true

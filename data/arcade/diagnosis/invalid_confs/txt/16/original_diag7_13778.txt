@@ -1,0 +1,1 @@
+Save Game=false --- Exit Game=false --- Install Game=false --- Uninstall Game=false --- List Game=false --- Brickles Board=true --- Brickles Game Menu=true --- Animation Loop=false --- Size=false --- Point=false --- Bowling Ball=true --- Bowling Pin=true --- Brick=true --- Rack of Pins=true --- Top Paddle=true --- Right brickles=true

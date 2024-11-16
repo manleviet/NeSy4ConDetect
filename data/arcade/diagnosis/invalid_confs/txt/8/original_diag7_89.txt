@@ -1,0 +1,1 @@
+Save Game=false --- Exit Game=false --- Uninstall Game=false --- List Game=false --- Bowling Game Menu=true --- Size=false --- Brick=true --- Rack of Pins=true

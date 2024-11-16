@@ -1,0 +1,1 @@
+Save Game=false --- Exit Game=false --- List Game=false --- Brickles=true --- Bowling Game Menu=true --- Size=false --- Puck=true --- Bowling Ball=true

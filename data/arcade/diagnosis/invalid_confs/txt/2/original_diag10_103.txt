@@ -1,0 +1,1 @@
+Brickles=true --- Animation Loop=false

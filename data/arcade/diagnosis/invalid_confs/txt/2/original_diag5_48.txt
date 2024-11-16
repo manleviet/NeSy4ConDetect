@@ -1,0 +1,1 @@
+Save Game=false --- Rack of Pins=true

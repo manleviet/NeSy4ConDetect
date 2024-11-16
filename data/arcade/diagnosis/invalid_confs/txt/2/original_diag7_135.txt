@@ -1,0 +1,1 @@
+Animation Loop=false --- Top Paddle=true
