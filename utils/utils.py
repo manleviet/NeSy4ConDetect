@@ -72,7 +72,9 @@ def read_and_split(path: str, file_type: FileType) -> List[List[str]]:
 def split_assignments(lines: List[str], delimiter: str) -> List[List[str]]:
     all_lines = []
     for line in lines:
-        elements = line.strip().split(delimiter)
+        elements = line.strip().rsplit(delimiter, 1)
+
+        # elements = line.strip().split(delimiter)
         all_lines.append(elements)
     return all_lines
 

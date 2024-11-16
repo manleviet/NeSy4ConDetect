@@ -15,8 +15,8 @@ def read_all_leaf_features(path: str) -> Dict[str, int]:
     # loop through all lines
     index = 0
     for line in lines:
-        # split the line into elements
-        elements = line.strip().split()
+        # split the line into two elements
+        elements = line.strip().rsplit(' ', 1)
         if len(elements) >= 2:
             # key - first element, the name of the leaf feature
             index += 1
