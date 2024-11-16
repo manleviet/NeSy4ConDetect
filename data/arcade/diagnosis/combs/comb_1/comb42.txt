@@ -1,0 +1,6 @@
+Bottom Paddle=true --- Pong=false
+Pong=false
+Pong=false --- Bottom Paddle=true
+Bottom Paddle=true
+Selected conflicts:
+Bottom Paddle=true --- Pong=false

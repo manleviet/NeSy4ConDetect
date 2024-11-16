@@ -1,0 +1,7 @@
+Save Game=false --- Top Paddle=true --- Velocity=false
+Save Game=false --- Velocity=false
+Save Game=false --- Velocity=false --- Top Paddle=true
+Save Game=false --- Top Paddle=true
+Selected conflicts:
+Save Game=false
+Top Paddle=true --- Velocity=false

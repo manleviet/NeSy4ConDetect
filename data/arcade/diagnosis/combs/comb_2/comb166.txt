@@ -1,0 +1,7 @@
+Install Game=false --- Right brickles=true --- Brickles=false
+Install Game=false --- Brickles=false
+Install Game=false --- Brickles=false --- Right brickles=true
+Install Game=false --- Right brickles=true
+Selected conflicts:
+Install Game=false
+Right brickles=true --- Brickles=false

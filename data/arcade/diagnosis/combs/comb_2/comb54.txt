@@ -1,0 +1,7 @@
+Brickles Game Menu=true --- Brickles=false --- Save Game=false
+Brickles=false --- Save Game=false
+Save Game=false --- Brickles=false --- Brickles Game Menu=true
+Save Game=false --- Brickles Game Menu=true
+Selected conflicts:
+Brickles Game Menu=true --- Brickles=false
+Save Game=false

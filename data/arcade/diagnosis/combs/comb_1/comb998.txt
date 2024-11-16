@@ -1,0 +1,7 @@
+Bottom Paddle=true --- Velocity=false --- Pong=false
+Velocity=false --- Pong=false
+Pong=false --- Velocity=false --- Bottom Paddle=true
+Bottom Paddle=true
+Selected conflicts:
+Bottom Paddle=true --- Velocity=false
+Bottom Paddle=true --- Pong=false

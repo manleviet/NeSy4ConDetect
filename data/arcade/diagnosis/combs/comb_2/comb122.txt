@@ -1,0 +1,7 @@
+List Game=false --- Top Paddle=true --- Velocity=false
+List Game=false --- Velocity=false
+List Game=false --- Velocity=false --- Top Paddle=true
+List Game=false --- Top Paddle=true
+Selected conflicts:
+List Game=false
+Top Paddle=true --- Velocity=false

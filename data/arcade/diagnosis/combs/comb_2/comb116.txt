@@ -1,0 +1,7 @@
+Save Game=false --- Brick=true --- Play Brickles=false
+Save Game=false --- Play Brickles=false
+Save Game=false --- Play Brickles=false --- Brick=true
+Save Game=false --- Brick=true
+Selected conflicts:
+Save Game=false
+Brick=true --- Play Brickles=false

@@ -1,0 +1,7 @@
+Exit Game=false --- Puck=true --- Velocity=false
+Exit Game=false --- Velocity=false
+Exit Game=false --- Velocity=false --- Puck=true
+Exit Game=false --- Puck=true
+Selected conflicts:
+Exit Game=false
+Puck=true --- Velocity=false

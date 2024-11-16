@@ -1,0 +1,7 @@
+Uninstall Game=false --- Animation Loop=false
+Uninstall Game=false --- Animation Loop=false
+Uninstall Game=false --- Animation Loop=false
+Uninstall Game=false --- Animation Loop=false
+Selected conflicts:
+Uninstall Game=false
+Animation Loop=false

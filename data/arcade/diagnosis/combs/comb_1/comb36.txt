@@ -1,0 +1,6 @@
+Bottom Paddle=true --- Velocity=false
+Velocity=false
+Velocity=false --- Bottom Paddle=true
+Bottom Paddle=true
+Selected conflicts:
+Bottom Paddle=true --- Velocity=false

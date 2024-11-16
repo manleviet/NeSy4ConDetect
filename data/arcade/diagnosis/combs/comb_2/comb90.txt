@@ -1,0 +1,7 @@
+Brickles=true --- Play Brickles=false --- Point=false
+Play Brickles=false --- Point=false
+Play Brickles=false --- Brickles=true --- Point=false
+Brickles=true --- Point=false
+Selected conflicts:
+Brickles=true --- Play Brickles=false
+Point=false

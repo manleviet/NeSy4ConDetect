@@ -1,0 +1,7 @@
+Uninstall Game=false --- Brick=true --- Play Brickles=false
+Uninstall Game=false --- Play Brickles=false
+Uninstall Game=false --- Play Brickles=false --- Brick=true
+Uninstall Game=false --- Brick=true
+Selected conflicts:
+Uninstall Game=false
+Brick=true --- Play Brickles=false

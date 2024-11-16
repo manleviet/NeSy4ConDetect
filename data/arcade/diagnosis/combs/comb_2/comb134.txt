@@ -1,0 +1,7 @@
+Point=false --- Top Paddle=true --- Velocity=false
+Point=false --- Velocity=false
+Point=false --- Velocity=false --- Top Paddle=true
+Point=false --- Top Paddle=true
+Selected conflicts:
+Point=false
+Top Paddle=true --- Velocity=false

@@ -1,0 +1,6 @@
+Pong=false --- Play Pong=true
+Play Pong=true
+Play Pong=true --- Pong=false
+Pong=false
+Selected conflicts:
+Pong=false --- Play Pong=true

@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true
+Size=false --- List Game=false --- Velocity=false
+List Game=false --- Size=false --- Velocity=false --- Puck=true --- Bowling Ball=true
+List Game=false --- Size=false --- Puck=true --- Bowling Ball=true
+Selected conflicts:
+Size=false
+List Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false

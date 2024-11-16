@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Save Game=false
+Bowling=false --- Save Game=false
+Save Game=false --- Bowling=false --- Bowling Game Menu=true
+Save Game=false --- Bowling Game Menu=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Save Game=false

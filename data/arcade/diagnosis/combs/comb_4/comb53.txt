@@ -1,0 +1,9 @@
+List Game=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Brick=true --- Brickles=false
+List Game=false --- Exit Game=false --- Velocity=false --- Brickles=false
+Exit Game=false --- List Game=false --- Brickles=false --- Velocity=false --- Bowling Ball=true --- Brick=true
+Exit Game=false --- List Game=false --- Bowling Ball=true --- Brick=true
+Selected conflicts:
+List Game=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Brick=true --- Brickles=false

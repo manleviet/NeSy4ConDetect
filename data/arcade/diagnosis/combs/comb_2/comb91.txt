@@ -1,0 +1,7 @@
+Install Game=false --- Point=false
+Install Game=false --- Point=false
+Install Game=false --- Point=false
+Install Game=false --- Point=false
+Selected conflicts:
+Install Game=false
+Point=false

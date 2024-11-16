@@ -1,0 +1,7 @@
+Install Game=false --- Bowling=false --- Play Bowling=true
+Install Game=false --- Play Bowling=true
+Install Game=false --- Play Bowling=true --- Bowling=false
+Install Game=false --- Bowling=false
+Selected conflicts:
+Install Game=false
+Bowling=false --- Play Bowling=true

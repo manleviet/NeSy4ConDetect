@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Bowling Ball=true --- Velocity=false
+Bowling=false --- Velocity=false
+Bowling=false --- Velocity=false --- Bowling Ball=true --- Rack of Pins=true
+Bowling Ball=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling Ball=true --- Velocity=false

@@ -1,0 +1,7 @@
+List Game=false --- Install Game=false
+List Game=false --- Install Game=false
+Install Game=false --- List Game=false
+Install Game=false --- List Game=false
+Selected conflicts:
+List Game=false
+Install Game=false

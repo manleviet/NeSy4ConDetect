@@ -1,0 +1,7 @@
+List Game=false --- Brick=true --- Brickles=false
+List Game=false --- Brickles=false
+List Game=false --- Brickles=false --- Brick=true
+List Game=false --- Brick=true
+Selected conflicts:
+List Game=false
+Brick=true --- Brickles=false

@@ -1,0 +1,7 @@
+Point=false --- Right brickles=true --- Brickles=false
+Point=false --- Brickles=false
+Brickles=false --- Point=false --- Right brickles=true
+Point=false --- Right brickles=true
+Selected conflicts:
+Point=false
+Right brickles=true --- Brickles=false

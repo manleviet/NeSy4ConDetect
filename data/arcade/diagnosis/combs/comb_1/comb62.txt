@@ -1,0 +1,6 @@
+Left pong=true --- Pong=false
+Pong=false
+Pong=false --- Left pong=true
+Left pong=true
+Selected conflicts:
+Left pong=true --- Pong=false

@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Brick=true --- Brickles=false --- Uninstall Game=false
+Size=false --- List Game=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- List Game=false --- Brickles=false --- Size=false --- Brick=true
+Uninstall Game=false --- List Game=false --- Size=false --- Brick=true
+Selected conflicts:
+Size=false
+List Game=false
+Brick=true --- Brickles=false
+Uninstall Game=false

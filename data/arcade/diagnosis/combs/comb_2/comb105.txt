@@ -1,0 +1,7 @@
+Point=false --- Animation Loop=false
+Point=false --- Animation Loop=false
+Animation Loop=false --- Point=false
+Animation Loop=false --- Point=false
+Selected conflicts:
+Point=false
+Animation Loop=false

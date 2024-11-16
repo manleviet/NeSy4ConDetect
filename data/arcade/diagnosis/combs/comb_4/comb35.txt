@@ -1,0 +1,9 @@
+Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true
+Bowling=false --- Exit Game=false --- Velocity=false
+Exit Game=false --- Bowling=false --- Bowling Game Menu=true --- Velocity=false --- Puck=true --- Bowling Ball=true
+Exit Game=false --- Bowling Game Menu=true --- Puck=true --- Bowling Ball=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false

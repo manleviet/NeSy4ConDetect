@@ -1,0 +1,7 @@
+Floor pong=true --- Pong=false --- Pong Board=true
+Pong=false
+Pong Board=true --- Pong=false --- Floor pong=true
+Pong=false
+Selected conflicts:
+Floor pong=true --- Pong=false
+Pong=false --- Pong Board=true

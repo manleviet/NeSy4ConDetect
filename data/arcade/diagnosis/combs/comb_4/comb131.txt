@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Exit Game=false --- Uninstall Game=false
+Size=false --- List Game=false --- Exit Game=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- List Game=false --- Size=false
+Exit Game=false --- Uninstall Game=false --- List Game=false --- Size=false
+Selected conflicts:
+Size=false
+List Game=false
+Exit Game=false
+Uninstall Game=false

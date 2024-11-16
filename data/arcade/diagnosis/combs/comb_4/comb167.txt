@@ -1,0 +1,9 @@
+Rack of Pins=true --- Bowling=false --- Bowling Game Menu=true --- Brick=true --- Brickles=false --- Uninstall Game=false
+Bowling=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- Brickles=false --- Bowling=false --- Bowling Game Menu=true --- Brick=true --- Rack of Pins=true
+Uninstall Game=false --- Bowling Game Menu=true --- Brick=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling Game Menu=true --- Bowling=false
+Brick=true --- Brickles=false
+Uninstall Game=false

@@ -1,0 +1,7 @@
+Brickles Game Menu=true --- Brickles=false --- Brickles=true --- Play Brickles=false
+Brickles=false --- Play Brickles=false
+Play Brickles=false --- Brickles=false --- Brickles=true --- Brickles Game Menu=true
+Brickles=true --- Brickles Game Menu=true
+Selected conflicts:
+Brickles Game Menu=true --- Brickles=false
+Brickles=true --- Play Brickles=false

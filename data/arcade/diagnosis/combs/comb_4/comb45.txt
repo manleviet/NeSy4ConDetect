@@ -1,0 +1,9 @@
+Rack of Pins=true --- Bowling=false --- Bowling Game Menu=true --- Exit Game=false --- Brick=true --- Brickles=false
+Bowling=false --- Exit Game=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Bowling=false --- Bowling Game Menu=true --- Brick=true --- Rack of Pins=true
+Exit Game=false --- Bowling Game Menu=true --- Brick=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Brick=true --- Brickles=false

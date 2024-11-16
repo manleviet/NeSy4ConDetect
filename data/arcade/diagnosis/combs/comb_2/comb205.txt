@@ -1,0 +1,7 @@
+Animation Loop=false --- Bowling Pin=true --- Play Bowling=false
+Animation Loop=false --- Play Bowling=false
+Play Bowling=false --- Animation Loop=false --- Bowling Pin=true
+Animation Loop=false --- Bowling Pin=true
+Selected conflicts:
+Animation Loop=false
+Bowling Pin=true --- Play Bowling=false

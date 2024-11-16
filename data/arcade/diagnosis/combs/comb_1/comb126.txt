@@ -1,0 +1,6 @@
+Bottom Paddle=false --- Top Paddle=false --- Puck=false --- Velocity=true --- Bowling=false
+Bowling=false
+Bowling=false --- Velocity=true --- Puck=false --- Top Paddle=false --- Bottom Paddle=false
+Bottom Paddle=false
+Selected conflicts:
+Bottom Paddle=false --- Top Paddle=false --- Puck=false --- Velocity=true --- Bowling=false

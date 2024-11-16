@@ -1,0 +1,6 @@
+Right pont=true --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Right pont=true
+Right pont=true
+Selected conflicts:
+Right pont=true --- Play Pong=false

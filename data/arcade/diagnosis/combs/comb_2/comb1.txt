@@ -1,0 +1,7 @@
+Size=false --- List Game=false
+Size=false --- List Game=false
+List Game=false --- Size=false
+List Game=false --- Size=false
+Selected conflicts:
+Size=false
+List Game=false

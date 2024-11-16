@@ -1,0 +1,6 @@
+List Game=false
+List Game=false
+List Game=false
+List Game=false
+Selected conflicts:
+List Game=false

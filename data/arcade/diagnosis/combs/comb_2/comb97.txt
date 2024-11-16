@@ -1,0 +1,7 @@
+Bowling Ball=true --- Velocity=false --- Animation Loop=false
+Velocity=false --- Animation Loop=false
+Animation Loop=false --- Velocity=false --- Bowling Ball=true
+Animation Loop=false --- Bowling Ball=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Animation Loop=false

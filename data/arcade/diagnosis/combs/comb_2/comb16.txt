@@ -1,0 +1,7 @@
+Size=false --- Puck=true --- Velocity=false
+Size=false --- Velocity=false
+Size=false --- Velocity=false --- Puck=true
+Size=false --- Puck=true
+Selected conflicts:
+Size=false
+Puck=true --- Velocity=false

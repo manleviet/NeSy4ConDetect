@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Bowling=false --- Play Bowling=true
+Velocity=false --- Play Bowling=true
+Play Bowling=true --- Bowling=false --- Velocity=false --- Puck=true
+Bowling=false --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Bowling=false --- Play Bowling=true

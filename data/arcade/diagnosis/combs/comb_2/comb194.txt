@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Bowling Pin=true --- Play Bowling=false
+Bowling=false --- Play Bowling=false
+Play Bowling=false --- Bowling=false --- Bowling Game Menu=true --- Bowling Pin=true
+Bowling Game Menu=true --- Bowling Pin=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Bowling Pin=true --- Play Bowling=false

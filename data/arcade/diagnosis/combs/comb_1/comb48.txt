@@ -1,0 +1,6 @@
+Score Board=true --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Score Board=true
+Score Board=true
+Selected conflicts:
+Score Board=true --- Play Pong=false

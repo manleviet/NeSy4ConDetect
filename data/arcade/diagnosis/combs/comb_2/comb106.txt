@@ -1,0 +1,7 @@
+Size=false --- Brick=true --- Play Brickles=false
+Size=false --- Play Brickles=false
+Play Brickles=false --- Size=false --- Brick=true
+Size=false --- Brick=true
+Selected conflicts:
+Size=false
+Brick=true --- Play Brickles=false

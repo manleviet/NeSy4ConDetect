@@ -1,0 +1,7 @@
+Size=false --- Rack of Pins=true --- Bowling=false
+Size=false --- Bowling=false
+Bowling=false --- Size=false --- Rack of Pins=true
+Size=false --- Rack of Pins=true
+Selected conflicts:
+Size=false
+Rack of Pins=true --- Bowling=false

@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Brickles=true --- Play Brickles=false
+Velocity=false --- Play Brickles=false
+Play Brickles=false --- Brickles=true --- Velocity=false --- Puck=true
+Brickles=true --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Brickles=true --- Play Brickles=false

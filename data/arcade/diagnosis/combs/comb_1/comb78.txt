@@ -1,0 +1,6 @@
+Ceiling pong=true --- Pong=false
+Pong=false
+Pong=false --- Ceiling pong=true
+Ceiling pong=true
+Selected conflicts:
+Ceiling pong=true --- Pong=false

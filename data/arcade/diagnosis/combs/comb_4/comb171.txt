@@ -1,0 +1,9 @@
+Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Brick=true --- Brickles=false --- Uninstall Game=false
+Bowling=false --- Exit Game=false --- Brickles=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- Brickles=false --- Bowling=false --- Bowling Game Menu=true --- Brick=true
+Exit Game=false --- Uninstall Game=false --- Bowling Game Menu=true --- Brick=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Brick=true --- Brickles=false
+Uninstall Game=false

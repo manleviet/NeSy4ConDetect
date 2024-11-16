@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Bowling Game Menu=true --- Bowling=false --- Bowling Ball=true --- Velocity=false
+Size=false --- List Game=false --- Bowling=false --- Velocity=false
+List Game=false --- Bowling=false --- Bowling Game Menu=true --- Size=false --- Velocity=false --- Bowling Ball=true
+List Game=false --- Bowling Game Menu=true --- Size=false --- Bowling Ball=true
+Selected conflicts:
+Size=false
+List Game=false
+Bowling Game Menu=true --- Bowling=false
+Bowling Ball=true --- Velocity=false

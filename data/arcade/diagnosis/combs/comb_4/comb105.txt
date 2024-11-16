@@ -1,0 +1,9 @@
+Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brickles Game Menu=true --- Brickles=false
+Exit Game=false --- Velocity=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Brickles Game Menu=true --- Velocity=false --- Puck=true --- Bowling Ball=true
+Exit Game=false --- Brickles Game Menu=true --- Puck=true --- Bowling Ball=true
+Selected conflicts:
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brickles Game Menu=true --- Brickles=false

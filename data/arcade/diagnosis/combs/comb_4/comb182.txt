@@ -1,0 +1,9 @@
+Bowling Ball=true --- Velocity=false --- Puck=true --- Brick=true --- Brickles=false --- Uninstall Game=false
+Velocity=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- Brickles=false --- Velocity=false --- Puck=true --- Bowling Ball=true --- Brick=true
+Uninstall Game=false --- Puck=true --- Bowling Ball=true --- Brick=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false

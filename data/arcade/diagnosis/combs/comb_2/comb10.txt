@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Exit Game=false
+Bowling=false --- Exit Game=false
+Exit Game=false --- Bowling=false --- Bowling Game Menu=true
+Exit Game=false --- Bowling Game Menu=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false

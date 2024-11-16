@@ -1,0 +1,6 @@
+Lane=true --- Bowling=false
+Bowling=false
+Bowling=false --- Lane=true
+Lane=true
+Selected conflicts:
+Lane=true --- Bowling=false

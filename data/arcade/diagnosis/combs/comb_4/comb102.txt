@@ -1,0 +1,9 @@
+List Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brickles Game Menu=true --- Brickles=false
+List Game=false --- Velocity=false --- Brickles=false
+List Game=false --- Brickles=false --- Brickles Game Menu=true --- Velocity=false --- Puck=true --- Bowling Ball=true
+List Game=false --- Brickles Game Menu=true --- Puck=true --- Bowling Ball=true
+Selected conflicts:
+List Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brickles Game Menu=true --- Brickles=false

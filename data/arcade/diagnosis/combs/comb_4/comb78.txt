@@ -1,0 +1,9 @@
+Size=false --- Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Brickles Game Menu=true --- Brickles=false
+Size=false --- Bowling=false --- Exit Game=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Bowling=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Size=false
+Exit Game=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Size=false
+Selected conflicts:
+Size=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Brickles Game Menu=true --- Brickles=false

@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Uninstall Game=false
+Bowling=false --- Uninstall Game=false
+Uninstall Game=false --- Bowling=false --- Bowling Game Menu=true
+Uninstall Game=false --- Bowling Game Menu=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Uninstall Game=false

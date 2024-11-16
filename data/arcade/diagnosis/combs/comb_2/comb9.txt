@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Exit Game=false
+Bowling=false --- Exit Game=false
+Exit Game=false --- Bowling=false --- Rack of Pins=true
+Exit Game=false --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Exit Game=false

@@ -1,0 +1,6 @@
+Floor brickles=false --- Ceiling brickles=false --- Brick Pile=false --- Brick=false --- Puck=false --- Play Bowling=false --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Play Bowling=false --- Puck=false --- Brick=false --- Brick Pile=false --- Ceiling brickles=false --- Floor brickles=false
+Floor brickles=false
+Selected conflicts:
+Floor brickles=false --- Ceiling brickles=false --- Brick Pile=false --- Brick=false --- Puck=false --- Play Bowling=false --- Play Pong=false

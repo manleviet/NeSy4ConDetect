@@ -1,0 +1,7 @@
+Bowling Ball=true --- Velocity=false --- Right brickles=true --- Brickles=false
+Velocity=false --- Brickles=false
+Brickles=false --- Velocity=false --- Bowling Ball=true --- Right brickles=true
+Bowling Ball=true --- Right brickles=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Right brickles=true --- Brickles=false

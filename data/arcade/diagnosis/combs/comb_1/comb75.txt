@@ -1,0 +1,6 @@
+Floor brickles=true --- Play Brickles=false
+Play Brickles=false
+Play Brickles=false --- Floor brickles=true
+Floor brickles=true
+Selected conflicts:
+Floor brickles=true --- Play Brickles=false

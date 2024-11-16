@@ -1,0 +1,7 @@
+Size=false --- Bowling Ball=true --- Velocity=false
+Size=false --- Velocity=false
+Size=false --- Velocity=false --- Bowling Ball=true
+Size=false --- Bowling Ball=true
+Selected conflicts:
+Size=false
+Bowling Ball=true --- Velocity=false

@@ -1,0 +1,7 @@
+Top Paddle=true --- Velocity=false --- Play Pong=false
+Velocity=false --- Play Pong=false
+Play Pong=false --- Velocity=false --- Top Paddle=true
+Top Paddle=true
+Selected conflicts:
+Top Paddle=true --- Velocity=false
+Top Paddle=true --- Play Pong=false

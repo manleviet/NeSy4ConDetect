@@ -1,0 +1,9 @@
+Size=false --- Exit Game=false --- Puck=true --- Velocity=false --- Brick=true --- Brickles=false
+Size=false --- Exit Game=false --- Velocity=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Size=false --- Velocity=false --- Puck=true --- Brick=true
+Exit Game=false --- Size=false --- Puck=true --- Brick=true
+Selected conflicts:
+Size=false
+Exit Game=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false

@@ -1,0 +1,6 @@
+Edge=true --- Play Bowling=false
+Play Bowling=false
+Play Bowling=false --- Edge=true
+Edge=true
+Selected conflicts:
+Edge=true --- Play Bowling=false

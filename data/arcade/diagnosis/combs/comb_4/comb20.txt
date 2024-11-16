@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Exit Game=false --- Puck=true --- Velocity=false
+Size=false --- List Game=false --- Exit Game=false --- Velocity=false
+Exit Game=false --- List Game=false --- Size=false --- Velocity=false --- Puck=true
+Exit Game=false --- List Game=false --- Size=false --- Puck=true
+Selected conflicts:
+Size=false
+List Game=false
+Exit Game=false
+Puck=true --- Velocity=false

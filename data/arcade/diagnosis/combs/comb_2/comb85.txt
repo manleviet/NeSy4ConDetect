@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Point=false
+Velocity=false --- Point=false
+Point=false --- Velocity=false --- Puck=true
+Point=false --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Point=false

@@ -1,0 +1,13 @@
+Size=false --- List Game=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brick=true --- Brickles=false --- Uninstall Game=false --- Save Game=false
+
+Save Game=false --- Exit Game=false --- Uninstall Game=false --- List Game=false --- Brickles=false --- Size=false --- Velocity=false --- Puck=true --- Bowling Ball=true --- Brick=true
+Save Game=false --- Exit Game=false --- Uninstall Game=false --- List Game=false --- Size=false --- Puck=true --- Bowling Ball=true --- Brick=true
+Selected conflicts:
+Size=false
+List Game=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false
+Save Game=false

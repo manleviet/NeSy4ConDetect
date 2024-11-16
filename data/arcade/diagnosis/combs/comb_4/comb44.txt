@@ -1,0 +1,9 @@
+List Game=false --- Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Brick=true --- Brickles=false
+List Game=false --- Bowling=false --- Exit Game=false --- Brickles=false
+Exit Game=false --- List Game=false --- Brickles=false --- Bowling=false --- Bowling Game Menu=true --- Brick=true
+Exit Game=false --- List Game=false --- Bowling Game Menu=true --- Brick=true
+Selected conflicts:
+List Game=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Brick=true --- Brickles=false

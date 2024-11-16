@@ -1,0 +1,7 @@
+Uninstall Game=false --- Install Game=false
+Uninstall Game=false --- Install Game=false
+Install Game=false --- Uninstall Game=false
+Install Game=false --- Uninstall Game=false
+Selected conflicts:
+Uninstall Game=false
+Install Game=false

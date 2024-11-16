@@ -1,0 +1,9 @@
+List Game=false --- Bowling Ball=true --- Velocity=false --- Brick=true --- Brickles=false --- Uninstall Game=false
+List Game=false --- Velocity=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- List Game=false --- Brickles=false --- Velocity=false --- Bowling Ball=true --- Brick=true
+Uninstall Game=false --- List Game=false --- Bowling Ball=true --- Brick=true
+Selected conflicts:
+List Game=false
+Bowling Ball=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false

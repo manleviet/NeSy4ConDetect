@@ -1,0 +1,7 @@
+Bowling=false --- Play Bowling=true --- Bowling Ball=true
+Play Bowling=true --- Bowling Ball=true
+Play Bowling=true --- Bowling=false --- Bowling Ball=true
+Bowling=false
+Selected conflicts:
+Bowling=false --- Play Bowling=true
+Bowling Ball=true --- Bowling=false

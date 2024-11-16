@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Pong Board=false --- Play Brickles=false
+Bowling=false
+Play Brickles=false --- Pong Board=false --- Bowling=false --- Rack of Pins=true
+Bowling=false
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling=false --- Pong Board=false --- Play Brickles=false

@@ -1,0 +1,9 @@
+Size=false --- Exit Game=false --- Brick=true --- Brickles=false --- Brickles Game Menu=true
+Size=false --- Exit Game=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Brickles Game Menu=true --- Size=false --- Brick=true
+Exit Game=false --- Brickles Game Menu=true --- Size=false --- Brick=true
+Selected conflicts:
+Size=false
+Exit Game=false
+Brick=true --- Brickles=false
+Brickles Game Menu=true --- Brickles=false

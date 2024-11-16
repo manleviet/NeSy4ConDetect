@@ -1,0 +1,9 @@
+Size=false --- Rack of Pins=true --- Bowling=false --- Bowling Game Menu=true --- Uninstall Game=false
+Size=false --- Bowling=false --- Uninstall Game=false
+Uninstall Game=false --- Bowling=false --- Bowling Game Menu=true --- Size=false --- Rack of Pins=true
+Uninstall Game=false --- Bowling Game Menu=true --- Size=false --- Rack of Pins=true
+Selected conflicts:
+Size=false
+Rack of Pins=true --- Bowling=false
+Bowling Game Menu=true --- Bowling=false
+Uninstall Game=false

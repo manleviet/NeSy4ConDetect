@@ -1,0 +1,9 @@
+Size=false --- Exit Game=false --- Brickles Game Menu=true --- Brickles=false --- Uninstall Game=false
+Size=false --- Exit Game=false --- Brickles=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- Brickles=false --- Brickles Game Menu=true --- Size=false
+Exit Game=false --- Uninstall Game=false --- Brickles Game Menu=true --- Size=false
+Selected conflicts:
+Size=false
+Exit Game=false
+Brickles Game Menu=true --- Brickles=false
+Uninstall Game=false

@@ -1,0 +1,6 @@
+End of Alley=true --- Play Bowling=false
+Play Bowling=false
+Play Bowling=false --- End of Alley=true
+End of Alley=true
+Selected conflicts:
+End of Alley=true --- Play Bowling=false

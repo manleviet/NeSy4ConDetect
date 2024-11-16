@@ -1,0 +1,7 @@
+Bowling Ball=true --- Bowling=false --- Pong Board=false --- Play Brickles=false
+Bowling=false
+Play Brickles=false --- Pong Board=false --- Bowling=false --- Bowling Ball=true
+Bowling=false
+Selected conflicts:
+Bowling Ball=true --- Bowling=false
+Bowling=false --- Pong Board=false --- Play Brickles=false

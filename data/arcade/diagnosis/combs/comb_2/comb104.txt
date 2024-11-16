@@ -1,0 +1,7 @@
+Install Game=false --- Animation Loop=false
+Install Game=false --- Animation Loop=false
+Install Game=false --- Animation Loop=false
+Install Game=false --- Animation Loop=false
+Selected conflicts:
+Install Game=false
+Animation Loop=false

@@ -1,0 +1,21 @@
+Size=false --- List Game=false --- Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brickles Game Menu=true --- Brickles=false --- Uninstall Game=false --- Save Game=false --- Install Game=false --- Point=false --- Animation Loop=false --- Brick=true --- Play Brickles=false --- Right brickles=true --- Brickles Board=true --- Bowling Pin=true --- Play Bowling=false
+
+Save Game=false --- Exit Game=false --- Install Game=false --- Uninstall Game=false --- List Game=false --- Play Brickles=false --- Play Bowling=false --- Brickles Board=true --- Brickles=false --- Bowling=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Animation Loop=false --- Size=false --- Point=false --- Velocity=false --- Puck=true --- Bowling Ball=true --- Bowling Pin=true --- Brick=true --- Right brickles=true
+Save Game=false --- Exit Game=false --- Install Game=false --- Uninstall Game=false --- List Game=false --- Brickles Board=true --- Brickles Game Menu=true --- Bowling Game Menu=true --- Animation Loop=false --- Size=false --- Point=false --- Puck=true --- Bowling Ball=true --- Bowling Pin=true --- Brick=true --- Right brickles=true
+Selected conflicts:
+Size=false
+List Game=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brickles Game Menu=true --- Brickles=false
+Uninstall Game=false
+Save Game=false
+Install Game=false
+Point=false
+Animation Loop=false
+Brick=true --- Play Brickles=false
+Right brickles=true --- Brickles=false
+Brickles=false --- Brickles Board=true
+Bowling Pin=true --- Play Bowling=false

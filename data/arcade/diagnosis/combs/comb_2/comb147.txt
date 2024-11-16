@@ -1,0 +1,7 @@
+Save Game=false --- Bowling=false --- Play Bowling=true
+Save Game=false --- Play Bowling=true
+Save Game=false --- Play Bowling=true --- Bowling=false
+Save Game=false --- Bowling=false
+Selected conflicts:
+Save Game=false
+Bowling=false --- Play Bowling=true

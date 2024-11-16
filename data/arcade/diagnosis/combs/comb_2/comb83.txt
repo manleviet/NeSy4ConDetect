@@ -1,0 +1,7 @@
+Exit Game=false --- Point=false
+Exit Game=false --- Point=false
+Exit Game=false --- Point=false
+Exit Game=false --- Point=false
+Selected conflicts:
+Exit Game=false
+Point=false

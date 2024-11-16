@@ -1,0 +1,7 @@
+Exit Game=false --- Install Game=false
+Exit Game=false --- Install Game=false
+Exit Game=false --- Install Game=false
+Exit Game=false --- Install Game=false
+Selected conflicts:
+Exit Game=false
+Install Game=false

@@ -1,0 +1,7 @@
+Size=false --- Bowling Pin=true --- Play Bowling=false
+Size=false --- Play Bowling=false
+Play Bowling=false --- Size=false --- Bowling Pin=true
+Size=false --- Bowling Pin=true
+Selected conflicts:
+Size=false
+Bowling Pin=true --- Play Bowling=false

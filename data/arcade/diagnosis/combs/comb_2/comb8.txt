@@ -1,0 +1,7 @@
+List Game=false --- Exit Game=false
+List Game=false --- Exit Game=false
+Exit Game=false --- List Game=false
+Exit Game=false --- List Game=false
+Selected conflicts:
+List Game=false
+Exit Game=false

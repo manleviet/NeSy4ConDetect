@@ -1,0 +1,7 @@
+Animation Loop=false --- Brickles=false --- Brickles Board=true
+Animation Loop=false --- Brickles Board=true
+Brickles Board=true --- Brickles=false --- Animation Loop=false
+Brickles=false --- Animation Loop=false
+Selected conflicts:
+Animation Loop=false
+Brickles=false --- Brickles Board=true

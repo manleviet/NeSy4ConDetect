@@ -1,0 +1,7 @@
+Brickles=true --- Play Brickles=false --- Right brickles=true --- Brickles=false
+Play Brickles=false --- Brickles=false
+Play Brickles=false --- Brickles=true --- Brickles=false --- Right brickles=true
+Brickles=true --- Right brickles=true
+Selected conflicts:
+Brickles=true --- Play Brickles=false
+Right brickles=true --- Brickles=false

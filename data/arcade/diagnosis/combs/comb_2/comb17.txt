@@ -1,0 +1,7 @@
+List Game=false --- Puck=true --- Velocity=false
+List Game=false --- Velocity=false
+List Game=false --- Velocity=false --- Puck=true
+List Game=false --- Puck=true
+Selected conflicts:
+List Game=false
+Puck=true --- Velocity=false

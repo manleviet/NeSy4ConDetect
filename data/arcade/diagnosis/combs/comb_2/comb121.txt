@@ -1,0 +1,7 @@
+Size=false --- Top Paddle=true --- Velocity=false
+Size=false --- Velocity=false
+Size=false --- Velocity=false --- Top Paddle=true
+Size=false --- Top Paddle=true
+Selected conflicts:
+Size=false
+Top Paddle=true --- Velocity=false

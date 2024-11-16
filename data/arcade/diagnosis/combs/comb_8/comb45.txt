@@ -1,0 +1,13 @@
+Rack of Pins=true --- Bowling=false --- Bowling Game Menu=true --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brick=true --- Brickles=false --- Brickles Game Menu=true --- Uninstall Game=false
+
+Exit Game=false --- Uninstall Game=false --- Brickles=false --- Bowling=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Velocity=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Exit Game=false --- Uninstall Game=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false
+Brickles Game Menu=true --- Brickles=false
+Uninstall Game=false

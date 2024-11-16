@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Animation Loop=false
+Velocity=false --- Animation Loop=false
+Animation Loop=false --- Velocity=false --- Puck=true
+Animation Loop=false --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Animation Loop=false

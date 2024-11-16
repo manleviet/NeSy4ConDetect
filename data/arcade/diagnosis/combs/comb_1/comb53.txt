@@ -1,0 +1,6 @@
+Bowling=false --- Bowling Board=true
+Bowling Board=true
+Bowling Board=true --- Bowling=false
+Bowling=false
+Selected conflicts:
+Bowling=false --- Bowling Board=true

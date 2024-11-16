@@ -1,0 +1,7 @@
+Exit Game=false --- Top Paddle=true --- Velocity=false
+Exit Game=false --- Velocity=false
+Exit Game=false --- Velocity=false --- Top Paddle=true
+Exit Game=false --- Top Paddle=true
+Selected conflicts:
+Exit Game=false
+Top Paddle=true --- Velocity=false

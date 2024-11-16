@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Install Game=false
+Velocity=false --- Install Game=false
+Install Game=false --- Velocity=false --- Puck=true
+Install Game=false --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Install Game=false

@@ -1,0 +1,7 @@
+Brickles=false --- Play Brickles=true --- Bowling Game Menu=false --- Pong Game Menu=false
+Play Brickles=true --- Pong Game Menu=false
+Play Brickles=true --- Brickles=false --- Pong Game Menu=false --- Bowling Game Menu=false
+Brickles=false
+Selected conflicts:
+Brickles=false --- Play Brickles=true
+Bowling Game Menu=false --- Pong Game Menu=false --- Brickles=false

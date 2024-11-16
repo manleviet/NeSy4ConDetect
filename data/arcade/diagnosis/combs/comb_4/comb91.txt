@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Puck=true --- Velocity=false --- Brickles Game Menu=true --- Brickles=false
+Size=false --- List Game=false --- Velocity=false --- Brickles=false
+List Game=false --- Brickles=false --- Brickles Game Menu=true --- Size=false --- Velocity=false --- Puck=true
+List Game=false --- Brickles Game Menu=true --- Size=false --- Puck=true
+Selected conflicts:
+Size=false
+List Game=false
+Puck=true --- Velocity=false
+Brickles Game Menu=true --- Brickles=false

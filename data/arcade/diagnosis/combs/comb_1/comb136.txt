@@ -1,0 +1,6 @@
+Right pont=true --- Dividing Line=false --- Ceiling pong=false --- Floor pong=false --- Score Board=false --- Bowling=false --- Play Brickles=false
+Play Brickles=false
+Play Brickles=false --- Bowling=false --- Score Board=false --- Floor pong=false --- Ceiling pong=false --- Dividing Line=false --- Right pont=true
+Right pont=true
+Selected conflicts:
+Right pont=true --- Dividing Line=false --- Ceiling pong=false --- Floor pong=false --- Score Board=false --- Bowling=false --- Play Brickles=false

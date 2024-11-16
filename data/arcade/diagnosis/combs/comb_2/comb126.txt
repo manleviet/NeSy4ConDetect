@@ -1,0 +1,7 @@
+Bowling Ball=true --- Velocity=false --- Top Paddle=true
+Velocity=false
+Velocity=false --- Bowling Ball=true --- Top Paddle=true
+Bowling Ball=true --- Top Paddle=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Top Paddle=true --- Velocity=false

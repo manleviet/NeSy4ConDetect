@@ -1,0 +1,7 @@
+List Game=false --- Point=false
+List Game=false --- Point=false
+List Game=false --- Point=false
+List Game=false --- Point=false
+Selected conflicts:
+List Game=false
+Point=false

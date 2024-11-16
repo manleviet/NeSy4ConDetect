@@ -1,0 +1,7 @@
+Save Game=false --- Bowling Pin=true --- Play Bowling=false
+Save Game=false --- Play Bowling=false
+Save Game=false --- Play Bowling=false --- Bowling Pin=true
+Save Game=false --- Bowling Pin=true
+Selected conflicts:
+Save Game=false
+Bowling Pin=true --- Play Bowling=false

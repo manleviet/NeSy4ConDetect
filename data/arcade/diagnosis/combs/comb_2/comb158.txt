@@ -1,0 +1,7 @@
+Exit Game=false --- Right brickles=true --- Brickles=false
+Exit Game=false --- Brickles=false
+Exit Game=false --- Brickles=false --- Right brickles=true
+Exit Game=false --- Right brickles=true
+Selected conflicts:
+Exit Game=false
+Right brickles=true --- Brickles=false

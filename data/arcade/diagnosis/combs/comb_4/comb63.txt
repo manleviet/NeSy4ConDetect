@@ -1,0 +1,9 @@
+List Game=false --- Exit Game=false --- Puck=true --- Velocity=false --- Brick=true --- Brickles=false
+List Game=false --- Exit Game=false --- Velocity=false --- Brickles=false
+Exit Game=false --- List Game=false --- Brickles=false --- Velocity=false --- Puck=true --- Brick=true
+Exit Game=false --- List Game=false --- Puck=true --- Brick=true
+Selected conflicts:
+List Game=false
+Exit Game=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false

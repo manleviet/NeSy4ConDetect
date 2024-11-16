@@ -1,0 +1,6 @@
+Gutter=true --- Bowling=false
+Bowling=false
+Bowling=false --- Gutter=true
+Gutter=true
+Selected conflicts:
+Gutter=true --- Bowling=false

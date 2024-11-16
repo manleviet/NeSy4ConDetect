@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Puck=true --- Velocity=false --- Uninstall Game=false
+Size=false --- List Game=false --- Velocity=false --- Uninstall Game=false
+Uninstall Game=false --- List Game=false --- Size=false --- Velocity=false --- Puck=true
+Uninstall Game=false --- List Game=false --- Size=false --- Puck=true
+Selected conflicts:
+Size=false
+List Game=false
+Puck=true --- Velocity=false
+Uninstall Game=false

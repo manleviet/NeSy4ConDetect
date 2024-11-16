@@ -1,0 +1,6 @@
+Dividing Line=true --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Dividing Line=true
+Dividing Line=true
+Selected conflicts:
+Dividing Line=true --- Play Pong=false

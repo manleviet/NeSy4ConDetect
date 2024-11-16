@@ -1,0 +1,9 @@
+Size=false --- Bowling Game Menu=true --- Bowling=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false
+Size=false --- Bowling=false --- Exit Game=false --- Velocity=false
+Exit Game=false --- Bowling=false --- Bowling Game Menu=true --- Size=false --- Velocity=false --- Bowling Ball=true
+Exit Game=false --- Bowling Game Menu=true --- Size=false --- Bowling Ball=true
+Selected conflicts:
+Size=false
+Bowling Game Menu=true --- Bowling=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false

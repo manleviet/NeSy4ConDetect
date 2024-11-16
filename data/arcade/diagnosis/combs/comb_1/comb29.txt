@@ -1,0 +1,6 @@
+Rack of Pins=true --- Play Bowling=false
+Play Bowling=false
+Play Bowling=false --- Rack of Pins=true
+Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Play Bowling=false

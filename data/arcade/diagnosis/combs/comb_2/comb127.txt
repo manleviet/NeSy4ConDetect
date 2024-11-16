@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Top Paddle=true
+Velocity=false
+Velocity=false --- Puck=true --- Top Paddle=true
+Puck=true --- Top Paddle=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Top Paddle=true --- Velocity=false

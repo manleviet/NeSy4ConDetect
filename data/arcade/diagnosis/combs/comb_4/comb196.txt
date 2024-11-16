@@ -1,0 +1,9 @@
+Bowling Game Menu=true --- Bowling=false --- Bowling Ball=true --- Velocity=false --- Brickles Game Menu=true --- Brickles=false --- Uninstall Game=false
+Bowling=false --- Velocity=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- Brickles=false --- Bowling=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Velocity=false --- Bowling Ball=true
+Uninstall Game=false --- Brickles Game Menu=true --- Bowling Game Menu=true --- Bowling Ball=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Bowling Ball=true --- Velocity=false
+Brickles Game Menu=true --- Brickles=false
+Uninstall Game=false

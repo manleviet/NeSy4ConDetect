@@ -1,0 +1,7 @@
+Size=false --- Install Game=false
+Size=false --- Install Game=false
+Install Game=false --- Size=false
+Install Game=false --- Size=false
+Selected conflicts:
+Size=false
+Install Game=false

@@ -1,0 +1,7 @@
+Point=false --- Bowling Pin=true --- Play Bowling=false
+Point=false --- Play Bowling=false
+Play Bowling=false --- Point=false --- Bowling Pin=true
+Point=false --- Bowling Pin=true
+Selected conflicts:
+Point=false
+Bowling Pin=true --- Play Bowling=false

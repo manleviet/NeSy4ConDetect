@@ -1,0 +1,7 @@
+Bowling Ball=true --- Velocity=false --- Uninstall Game=false
+Velocity=false --- Uninstall Game=false
+Uninstall Game=false --- Velocity=false --- Bowling Ball=true
+Uninstall Game=false --- Bowling Ball=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Uninstall Game=false

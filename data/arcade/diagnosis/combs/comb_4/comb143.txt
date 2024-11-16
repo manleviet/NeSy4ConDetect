@@ -1,0 +1,9 @@
+Size=false --- Exit Game=false --- Bowling Ball=true --- Velocity=false --- Uninstall Game=false
+Size=false --- Exit Game=false --- Velocity=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- Size=false --- Velocity=false --- Bowling Ball=true
+Exit Game=false --- Uninstall Game=false --- Size=false --- Bowling Ball=true
+Selected conflicts:
+Size=false
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Uninstall Game=false

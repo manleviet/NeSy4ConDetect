@@ -1,0 +1,7 @@
+Bowling=false --- Pong Board=false --- Play Brickles=false --- Gutter=true
+Play Brickles=false --- Gutter=true
+Play Brickles=false --- Pong Board=false --- Bowling=false --- Gutter=true
+Bowling=false
+Selected conflicts:
+Bowling=false --- Pong Board=false --- Play Brickles=false
+Gutter=true --- Bowling=false

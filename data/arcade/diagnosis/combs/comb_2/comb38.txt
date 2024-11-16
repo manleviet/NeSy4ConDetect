@@ -1,0 +1,7 @@
+List Game=false --- Uninstall Game=false
+List Game=false --- Uninstall Game=false
+Uninstall Game=false --- List Game=false
+Uninstall Game=false --- List Game=false
+Selected conflicts:
+List Game=false
+Uninstall Game=false

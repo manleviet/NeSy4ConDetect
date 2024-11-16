@@ -1,0 +1,6 @@
+Exit Game=false
+Exit Game=false
+Exit Game=false
+Exit Game=false
+Selected conflicts:
+Exit Game=false

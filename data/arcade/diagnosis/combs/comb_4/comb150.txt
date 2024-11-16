@@ -1,0 +1,9 @@
+Size=false --- Bowling Game Menu=true --- Bowling=false --- Puck=true --- Velocity=false --- Uninstall Game=false
+Size=false --- Bowling=false --- Velocity=false --- Uninstall Game=false
+Uninstall Game=false --- Bowling=false --- Bowling Game Menu=true --- Size=false --- Velocity=false --- Puck=true
+Uninstall Game=false --- Bowling Game Menu=true --- Size=false --- Puck=true
+Selected conflicts:
+Size=false
+Bowling Game Menu=true --- Bowling=false
+Puck=true --- Velocity=false
+Uninstall Game=false

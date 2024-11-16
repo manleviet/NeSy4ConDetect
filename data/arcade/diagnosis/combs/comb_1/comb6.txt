@@ -1,0 +1,6 @@
+Bowling Ball=true --- Velocity=false
+Velocity=false
+Velocity=false --- Bowling Ball=true
+Bowling Ball=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false

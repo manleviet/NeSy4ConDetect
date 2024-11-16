@@ -1,0 +1,6 @@
+Bowling Game Menu=true --- Bowling=false
+Bowling=false
+Bowling=false --- Bowling Game Menu=true
+Bowling Game Menu=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false

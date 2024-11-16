@@ -1,0 +1,7 @@
+Size=false --- Uninstall Game=false
+Size=false --- Uninstall Game=false
+Uninstall Game=false --- Size=false
+Uninstall Game=false --- Size=false
+Selected conflicts:
+Size=false
+Uninstall Game=false

@@ -1,0 +1,6 @@
+Animation Loop=false
+Animation Loop=false
+Animation Loop=false
+Animation Loop=false
+Selected conflicts:
+Animation Loop=false

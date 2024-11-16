@@ -1,0 +1,7 @@
+Brickles Game Menu=true --- Brickles=false --- Top Paddle=true --- Velocity=false
+Brickles=false --- Velocity=false
+Brickles=false --- Brickles Game Menu=true --- Velocity=false --- Top Paddle=true
+Brickles Game Menu=true --- Top Paddle=true
+Selected conflicts:
+Brickles Game Menu=true --- Brickles=false
+Top Paddle=true --- Velocity=false

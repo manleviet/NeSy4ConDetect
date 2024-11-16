@@ -1,0 +1,7 @@
+Brickles Game Menu=true --- Brickles=false --- Bowling Pin=true --- Play Bowling=false
+Brickles=false --- Play Bowling=false
+Play Bowling=false --- Brickles=false --- Brickles Game Menu=true --- Bowling Pin=true
+Brickles Game Menu=true --- Bowling Pin=true
+Selected conflicts:
+Brickles Game Menu=true --- Brickles=false
+Bowling Pin=true --- Play Bowling=false

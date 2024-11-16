@@ -1,0 +1,9 @@
+Size=false --- Bowling Ball=true --- Velocity=false --- Brick=true --- Brickles=false --- Uninstall Game=false
+Size=false --- Velocity=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- Brickles=false --- Size=false --- Velocity=false --- Bowling Ball=true --- Brick=true
+Uninstall Game=false --- Size=false --- Bowling Ball=true --- Brick=true
+Selected conflicts:
+Size=false
+Bowling Ball=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false

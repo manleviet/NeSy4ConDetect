@@ -1,0 +1,7 @@
+Puck=true --- Velocity=false --- Uninstall Game=false
+Velocity=false --- Uninstall Game=false
+Uninstall Game=false --- Velocity=false --- Puck=true
+Uninstall Game=false --- Puck=true
+Selected conflicts:
+Puck=true --- Velocity=false
+Uninstall Game=false

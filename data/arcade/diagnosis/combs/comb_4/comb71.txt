@@ -1,0 +1,9 @@
+Size=false --- List Game=false --- Rack of Pins=true --- Bowling=false --- Brickles Game Menu=true --- Brickles=false
+Size=false --- List Game=false --- Bowling=false --- Brickles=false
+List Game=false --- Brickles=false --- Bowling=false --- Brickles Game Menu=true --- Size=false --- Rack of Pins=true
+List Game=false --- Brickles Game Menu=true --- Size=false --- Rack of Pins=true
+Selected conflicts:
+Size=false
+List Game=false
+Rack of Pins=true --- Bowling=false
+Brickles Game Menu=true --- Brickles=false

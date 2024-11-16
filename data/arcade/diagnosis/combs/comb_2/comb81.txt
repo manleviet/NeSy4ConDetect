@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Point=false
+Bowling=false --- Point=false
+Bowling=false --- Point=false --- Rack of Pins=true
+Point=false --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Point=false

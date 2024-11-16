@@ -1,0 +1,9 @@
+Exit Game=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Uninstall Game=false
+Exit Game=false --- Velocity=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- Velocity=false --- Puck=true --- Bowling Ball=true
+Exit Game=false --- Uninstall Game=false --- Puck=true --- Bowling Ball=true
+Selected conflicts:
+Exit Game=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Uninstall Game=false

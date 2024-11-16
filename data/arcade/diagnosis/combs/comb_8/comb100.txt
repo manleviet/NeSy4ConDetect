@@ -1,0 +1,13 @@
+Size=false --- List Game=false --- Rack of Pins=true --- Bowling=false --- Bowling Ball=true --- Velocity=false --- Puck=true --- Brick=true --- Brickles=false --- Uninstall Game=false --- Save Game=false
+
+Save Game=false --- Uninstall Game=false --- List Game=false --- Brickles=false --- Bowling=false --- Size=false --- Velocity=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Save Game=false --- Uninstall Game=false --- List Game=false --- Size=false --- Puck=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Selected conflicts:
+Size=false
+List Game=false
+Rack of Pins=true --- Bowling=false
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false
+Save Game=false

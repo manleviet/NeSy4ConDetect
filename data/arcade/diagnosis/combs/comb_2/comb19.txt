@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Puck=true --- Velocity=false
+Bowling=false --- Velocity=false
+Bowling=false --- Bowling Game Menu=true --- Velocity=false --- Puck=true
+Bowling Game Menu=true --- Puck=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Puck=true --- Velocity=false

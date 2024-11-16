@@ -1,0 +1,7 @@
+Install Game=false --- Top Paddle=true --- Velocity=false
+Install Game=false --- Velocity=false
+Install Game=false --- Velocity=false --- Top Paddle=true
+Install Game=false --- Top Paddle=true
+Selected conflicts:
+Install Game=false
+Top Paddle=true --- Velocity=false

@@ -1,0 +1,7 @@
+Brickles=true --- Play Brickles=false --- Bowling=false --- Play Bowling=true
+Play Brickles=false --- Play Bowling=true
+Play Brickles=false --- Play Bowling=true --- Brickles=true --- Bowling=false
+Brickles=true --- Bowling=false
+Selected conflicts:
+Brickles=true --- Play Brickles=false
+Bowling=false --- Play Bowling=true

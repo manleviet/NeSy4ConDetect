@@ -1,0 +1,7 @@
+Bowling Ball=true --- Velocity=false --- Puck=true
+Velocity=false
+Velocity=false --- Puck=true --- Bowling Ball=true
+Puck=true --- Bowling Ball=true
+Selected conflicts:
+Bowling Ball=true --- Velocity=false
+Puck=true --- Velocity=false

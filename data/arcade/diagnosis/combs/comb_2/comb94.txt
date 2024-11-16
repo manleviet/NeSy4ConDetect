@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Animation Loop=false
+Bowling=false --- Animation Loop=false
+Bowling=false --- Animation Loop=false --- Rack of Pins=true
+Animation Loop=false --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Animation Loop=false

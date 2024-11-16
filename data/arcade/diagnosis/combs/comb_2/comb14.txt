@@ -1,0 +1,7 @@
+Bowling Game Menu=true --- Bowling=false --- Bowling Ball=true --- Velocity=false
+Bowling=false --- Velocity=false
+Bowling=false --- Bowling Game Menu=true --- Velocity=false --- Bowling Ball=true
+Bowling Game Menu=true --- Bowling Ball=true
+Selected conflicts:
+Bowling Game Menu=true --- Bowling=false
+Bowling Ball=true --- Velocity=false

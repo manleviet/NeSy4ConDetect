@@ -1,0 +1,7 @@
+Size=false --- Right brickles=true --- Brickles=false
+Size=false --- Brickles=false
+Brickles=false --- Size=false --- Right brickles=true
+Size=false --- Right brickles=true
+Selected conflicts:
+Size=false
+Right brickles=true --- Brickles=false

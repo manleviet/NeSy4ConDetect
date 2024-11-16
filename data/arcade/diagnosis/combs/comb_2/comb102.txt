@@ -1,0 +1,7 @@
+Save Game=false --- Animation Loop=false
+Save Game=false --- Animation Loop=false
+Save Game=false --- Animation Loop=false
+Save Game=false --- Animation Loop=false
+Selected conflicts:
+Save Game=false
+Animation Loop=false

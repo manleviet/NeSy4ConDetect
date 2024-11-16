@@ -1,0 +1,7 @@
+Uninstall Game=false --- Top Paddle=true --- Velocity=false
+Uninstall Game=false --- Velocity=false
+Uninstall Game=false --- Velocity=false --- Top Paddle=true
+Uninstall Game=false --- Top Paddle=true
+Selected conflicts:
+Uninstall Game=false
+Top Paddle=true --- Velocity=false

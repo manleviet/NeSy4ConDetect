@@ -1,0 +1,9 @@
+Size=false --- Exit Game=false --- Puck=true --- Velocity=false --- Uninstall Game=false
+Size=false --- Exit Game=false --- Velocity=false --- Uninstall Game=false
+Exit Game=false --- Uninstall Game=false --- Size=false --- Velocity=false --- Puck=true
+Exit Game=false --- Uninstall Game=false --- Size=false --- Puck=true
+Selected conflicts:
+Size=false
+Exit Game=false
+Puck=true --- Velocity=false
+Uninstall Game=false

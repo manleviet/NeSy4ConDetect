@@ -1,0 +1,7 @@
+Save Game=false --- Brickles=false --- Brickles Board=true
+Save Game=false --- Brickles Board=true
+Save Game=false --- Brickles Board=true --- Brickles=false
+Save Game=false --- Brickles=false
+Selected conflicts:
+Save Game=false
+Brickles=false --- Brickles Board=true

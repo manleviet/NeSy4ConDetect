@@ -1,0 +1,7 @@
+Size=false --- Animation Loop=false
+Size=false --- Animation Loop=false
+Animation Loop=false --- Size=false
+Animation Loop=false --- Size=false
+Selected conflicts:
+Size=false
+Animation Loop=false

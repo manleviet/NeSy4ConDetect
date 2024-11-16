@@ -1,0 +1,7 @@
+Size=false --- Brickles=false --- Brickles Board=true
+Size=false --- Brickles Board=true
+Brickles Board=true --- Brickles=false --- Size=false
+Brickles=false --- Size=false
+Selected conflicts:
+Size=false
+Brickles=false --- Brickles Board=true

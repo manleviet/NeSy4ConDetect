@@ -1,0 +1,6 @@
+Pong Game Menu=true --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Pong Game Menu=true
+Pong Game Menu=true
+Selected conflicts:
+Pong Game Menu=true --- Play Pong=false

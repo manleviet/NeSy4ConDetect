@@ -1,0 +1,7 @@
+Animation Loop=false --- Top Paddle=true --- Velocity=false
+Animation Loop=false --- Velocity=false
+Animation Loop=false --- Velocity=false --- Top Paddle=true
+Animation Loop=false --- Top Paddle=true
+Selected conflicts:
+Animation Loop=false
+Top Paddle=true --- Velocity=false

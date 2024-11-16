@@ -1,0 +1,6 @@
+Bowling Pin=true --- Play Bowling=false
+Play Bowling=false
+Play Bowling=false --- Bowling Pin=true
+Bowling Pin=true
+Selected conflicts:
+Bowling Pin=true --- Play Bowling=false

@@ -1,0 +1,7 @@
+Point=false --- Brickles=false --- Brickles Board=true
+Point=false --- Brickles Board=true
+Brickles Board=true --- Brickles=false --- Point=false
+Brickles=false --- Point=false
+Selected conflicts:
+Point=false
+Brickles=false --- Brickles Board=true

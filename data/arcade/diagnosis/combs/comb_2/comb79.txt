@@ -1,0 +1,7 @@
+Size=false --- Point=false
+Size=false --- Point=false
+Size=false --- Point=false
+Size=false --- Point=false
+Selected conflicts:
+Size=false
+Point=false

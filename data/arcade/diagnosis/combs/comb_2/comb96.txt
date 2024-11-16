@@ -1,0 +1,7 @@
+Exit Game=false --- Animation Loop=false
+Exit Game=false --- Animation Loop=false
+Exit Game=false --- Animation Loop=false
+Exit Game=false --- Animation Loop=false
+Selected conflicts:
+Exit Game=false
+Animation Loop=false

@@ -1,0 +1,7 @@
+Exit Game=false --- Bowling Pin=true --- Play Bowling=false
+Exit Game=false --- Play Bowling=false
+Exit Game=false --- Play Bowling=false --- Bowling Pin=true
+Exit Game=false --- Bowling Pin=true
+Selected conflicts:
+Exit Game=false
+Bowling Pin=true --- Play Bowling=false

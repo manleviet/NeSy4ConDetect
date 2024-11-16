@@ -1,0 +1,7 @@
+Top Paddle=true --- Velocity=false --- Right brickles=true --- Brickles=false
+Velocity=false --- Brickles=false
+Brickles=false --- Velocity=false --- Top Paddle=true --- Right brickles=true
+Top Paddle=true --- Right brickles=true
+Selected conflicts:
+Top Paddle=true --- Velocity=false
+Right brickles=true --- Brickles=false

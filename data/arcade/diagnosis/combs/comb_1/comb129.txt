@@ -1,0 +1,6 @@
+Bowling Pin=false --- Bowling Ball=false --- Puck=false --- Velocity=true --- Play Pong=false
+Play Pong=false
+Play Pong=false --- Velocity=true --- Puck=false --- Bowling Ball=false --- Bowling Pin=false
+Bowling Pin=false
+Selected conflicts:
+Bowling Pin=false --- Bowling Ball=false --- Puck=false --- Velocity=true --- Play Pong=false

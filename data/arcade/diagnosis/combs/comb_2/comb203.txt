@@ -1,0 +1,7 @@
+Install Game=false --- Bowling Pin=true --- Play Bowling=false
+Install Game=false --- Play Bowling=false
+Install Game=false --- Play Bowling=false --- Bowling Pin=true
+Install Game=false --- Bowling Pin=true
+Selected conflicts:
+Install Game=false
+Bowling Pin=true --- Play Bowling=false

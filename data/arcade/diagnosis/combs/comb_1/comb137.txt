@@ -1,0 +1,6 @@
+Left brickles=true --- Floor brickles=false --- Ceiling brickles=false --- Brick Pile=false --- Brick=false --- Bowling=false --- Pong=false
+Pong=false
+Pong=false --- Bowling=false --- Brick=false --- Brick Pile=false --- Ceiling brickles=false --- Floor brickles=false --- Left brickles=true
+Left brickles=true
+Selected conflicts:
+Left brickles=true --- Floor brickles=false --- Ceiling brickles=false --- Brick Pile=false --- Brick=false --- Bowling=false --- Pong=false

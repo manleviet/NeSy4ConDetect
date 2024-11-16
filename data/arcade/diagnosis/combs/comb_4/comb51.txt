@@ -1,0 +1,9 @@
+Rack of Pins=true --- Bowling=false --- Bowling Game Menu=true --- Bowling Ball=true --- Velocity=false --- Brick=true --- Brickles=false
+Bowling=false --- Velocity=false --- Brickles=false
+Brickles=false --- Bowling=false --- Bowling Game Menu=true --- Velocity=false --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Bowling Game Menu=true --- Bowling Ball=true --- Brick=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Bowling Game Menu=true --- Bowling=false
+Bowling Ball=true --- Velocity=false
+Brick=true --- Brickles=false

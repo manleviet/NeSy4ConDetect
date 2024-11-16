@@ -1,0 +1,9 @@
+List Game=false --- Puck=true --- Velocity=false --- Brick=true --- Brickles=false --- Uninstall Game=false
+List Game=false --- Velocity=false --- Brickles=false --- Uninstall Game=false
+Uninstall Game=false --- List Game=false --- Brickles=false --- Velocity=false --- Puck=true --- Brick=true
+Uninstall Game=false --- List Game=false --- Puck=true --- Brick=true
+Selected conflicts:
+List Game=false
+Puck=true --- Velocity=false
+Brick=true --- Brickles=false
+Uninstall Game=false

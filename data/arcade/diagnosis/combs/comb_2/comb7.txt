@@ -1,0 +1,7 @@
+Size=false --- Exit Game=false
+Size=false --- Exit Game=false
+Exit Game=false --- Size=false
+Exit Game=false --- Size=false
+Selected conflicts:
+Size=false
+Exit Game=false

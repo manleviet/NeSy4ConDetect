@@ -1,0 +1,6 @@
+Bowling Pin=true --- Velocity=false
+Velocity=false
+Velocity=false --- Bowling Pin=true
+Bowling Pin=true
+Selected conflicts:
+Bowling Pin=true --- Velocity=false

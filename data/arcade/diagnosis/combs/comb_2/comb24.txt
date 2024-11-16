@@ -1,0 +1,7 @@
+Rack of Pins=true --- Bowling=false --- Brick=true --- Brickles=false
+Bowling=false --- Brickles=false
+Brickles=false --- Bowling=false --- Brick=true --- Rack of Pins=true
+Brick=true --- Rack of Pins=true
+Selected conflicts:
+Rack of Pins=true --- Bowling=false
+Brick=true --- Brickles=false

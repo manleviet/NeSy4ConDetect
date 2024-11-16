@@ -1,0 +1,7 @@
+Size=false --- Bowling Game Menu=true --- Bowling=false
+Size=false --- Bowling=false
+Bowling=false --- Bowling Game Menu=true --- Size=false
+Bowling Game Menu=true --- Size=false
+Selected conflicts:
+Size=false
+Bowling Game Menu=true --- Bowling=false

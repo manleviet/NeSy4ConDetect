@@ -1,0 +1,6 @@
+Ceiling brickles=true --- Brickles=false
+Brickles=false
+Brickles=false --- Ceiling brickles=true
+Ceiling brickles=true
+Selected conflicts:
+Ceiling brickles=true --- Brickles=false

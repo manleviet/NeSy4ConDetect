@@ -1,0 +1,7 @@
+Uninstall Game=false --- Right brickles=true --- Brickles=false
+Uninstall Game=false --- Brickles=false
+Uninstall Game=false --- Brickles=false --- Right brickles=true
+Uninstall Game=false --- Right brickles=true
+Selected conflicts:
+Uninstall Game=false
+Right brickles=true --- Brickles=false

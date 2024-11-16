@@ -1,0 +1,6 @@
+Left pong=true --- Dividing Line=false --- Ceiling pong=false --- Floor pong=false --- Score Board=false --- Play Bowling=false --- Play Brickles=false
+Play Brickles=false
+Play Brickles=false --- Play Bowling=false --- Score Board=false --- Floor pong=false --- Ceiling pong=false --- Dividing Line=false --- Left pong=true
+Left pong=true
+Selected conflicts:
+Left pong=true --- Dividing Line=false --- Ceiling pong=false --- Floor pong=false --- Score Board=false --- Play Bowling=false --- Play Brickles=false
