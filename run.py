@@ -3,12 +3,19 @@ Run experiments
 @SNT
 """
 from models.data import SingleConflictData
+from models.dnn import dnn_run
+from utils.hyperlist import dnn_grid
+import numpy as np
+
+from sklearn.model_selection import ParameterGrid
 
 import argparse
-
-from utils.hyperlist import dnn_grid
+import time
+import os
+import csv
 
 parser = argparse.ArgumentParser()
+
 parser.add_argument('-task','--task', action='store', type=str, help='path to the task')
 
 parser.add_argument('-model','--model',action='store',type=str,help='model used',required=True)
@@ -24,8 +31,17 @@ parser.add_argument('-cvalue','--cvalue',action='store',type=float,help='confide
 
 args = parser.parse_args()
 
-def logging(writer,fnum,params,param_grid,macc,sacc):
-    row = [fnum]
+def write_header(writer,param_grid):
+    header = []
+    for param in param_grid:
+        header.append(param)
+        
+    header += ["Test Acc", "STD"]
+    
+    writer.writerow(header)
+    
+def logging(writer,params,param_grid,macc,sacc):
+    row = []
     for param in param_grid:
         row.append(params[param])
         
@@ -53,15 +69,11 @@ if __name__=="__main__":
     logfile = open(lfname, 'a')
     writer = csv.writer(logfile)
     
-    if os.path.getsize(lfname)==0:
-        # creat header for log file
-        write_header(writer,pgrid)
-
 
     # Create model and run
     if args.model=="dnn":
         experiment = dnn_run
-        grid = dnn_grid
+        hgrid = dnn_grid
     elif args.model=="gnn":
         experiment = gnn_run
     elif args.model=="cnl":
@@ -69,37 +81,41 @@ if __name__=="__main__":
         hgrid = cnl_grid
     else:
         raise ValueError(args.model + " does not exist!!!")
-
-
+    
+    if os.path.getsize(lfname)==0:
+        # create header for log file
+        write_header(writer,hgrid)
+        
     # hyper parameters search
-    hgrid = ParameterGrid(hgrid)
-
-    for hparams in hgrid:
-        dataset = SingleConflict(arg.task)
+    for hparams in ParameterGrid(hgrid):
+        task = SingleConflictData(args.task,batch_size=hparams["bsize"],nfold=10)
         accs = []
         f1s  = []
         fold = 0
         while True:
-            train_dataloader, test_dataloader = dataset.next_fold()
+            train_dataloader, test_dataloader = task.next_data_fold()
             if train_dataloader is None:
                 break
 
-        
             acc = experiment(train_dataloader,
                              test_dataloader,
-                             hparams
-                             kb=kb)
+                             task.nvar,
+                             hparams,
+                             kb=task.kb)
 
+            
             accs.append(acc)
             fold +=1
-            print("[ConDetect] Fold %d acc= "%(fold,acc))
-
-        macc = mean(accs)
-        sacc = std(accs)
+            print("[ConDetect] Fold %d acc= %.5f"%(fold,acc))
+            input("")
+        macc = np.mean(accs)
+        sacc = np.std(accs)
         
         print("[ConDetect] Avg  acc= %.5f +- %.5f "%(macc,sacc))
-        logging(writer,pgrid,macc,sacc)
-
+        print(hparams)
+        print(hgrid)
+        logging(writer,hparams,hgrid,macc,sacc)
+        
     
     logfile.flush()
     logfile.close()

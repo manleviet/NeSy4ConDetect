@@ -4,59 +4,86 @@ Read conflict data
 """
 import numpy as np
 import os
+import glob
+
+import torch
+
 from sklearn.model_selection import KFold
 from torch.utils.data import Dataset, DataLoader
 
 
 class SingleConflictData():
-    def __init__(self,dpath,nfold=None):
+    def __init__(self,dpath,batch_size=16,nfold=None):
         """
         Use leave-one-out
         """
-        self.dataset = load_single_conflict_data(dpath)
-        self.kb = loadknowledge(dpath)
-        self.dsource = os.path.dirname(args.db)
-        self.tname = os.path.basename(args.dnf)
+        self.X, self.Y = load_single_conflict_data(dpath)
+        self.nvar = self.X.shape[1]
+        self.kb = load_knowledge(dpath)
+        self.batch_size = batch_size
+        
         self.fid = 0
         if nfold is None:
-            nfold = self.X.shape[0]
+            self.nfold = self.X.shape[0]
+        else:
+            self.nfold = nfold
             
-        self.kfold = KFold(n_splits=nfold, shuffle=True).split(self.dataset)
+        self.kfold = list(KFold(n_splits=self.nfold, shuffle=True).split(self.X))
         
-    def next_fold(self):
-        if self.fid >= self.X.shape[0]:
+    def next_data_fold(self):
+        if self.fid >= self.nfold:
             return None, None
 
+        
         train_ids, test_ids = self.kfold[self.fid]
+        #print(train_ids)
+        #print(test_ids)
+        #input("")
         self.fid+=1
         
 
         # convert into PyTorch tensors
-        Xtrain = torch.tensor(X[train_ids,:], dtype=torch.float32)
-        Ytrain = torch.tensor(Y[train_ids,:], dtype=torch.float32)
+        Xtrain = torch.tensor(self.X[train_ids,:], dtype=torch.float32)
+        Ytrain = torch.tensor(self.Y[train_ids,:], dtype=torch.float32)
+         
+        train_dataloader = DataLoader(list(zip(Xtrain,Ytrain)), shuffle=True, batch_size=self.batch_size)
 
-        train_dataloader = DataLoader(list(zip(Xtrain,Ytrain)), shuffle=True, batch_size=16)
+        
+        Xtest = torch.tensor(self.X[test_ids,:], dtype=torch.float32)
+        Ytest = torch.tensor(self.Y[test_ids,:], dtype=torch.float32)
 
+        test_dataloader = DataLoader(list(zip(Xtest,Ytest)),batch_size=self.batch_size)
 
-        Xtest = torch.tensor(X[test_ids,:], dtype=torch.float32)
-        Ytest = torch.tensor(Y[test_ids,:], dtype=torch.float32)
-
-        test_dataloader = DataLoader(list(zip(Xtest,Ytest)))
-
-        return trainloader, testloader
+        return train_dataloader, test_dataloader
     
+def load_single_conflict_data(datapath):
+    X,Y =  load_data(datapath)
+    X = X[:,1:]
+    Y = np.abs(Y[:,1:])
 
-def load_single_conflict_data(datasource,dataid):
-    X = np.genfromtxt(os.path.join("../data/"+datasource,dataid,"invalid_confs_"+dataid+".csv"),delimiter=",")
+    return X,Y
+
+def load_data(datapath):
+    inv_con_file = glob.glob(os.path.join(datapath,"invalid_confs_*.csv"))[0]
     
-    Y = np.genfromtxt(os.path.join("../data/"+datasource,dataid,"conflicts_"+dataid+".csv"),delimiter=",")
+    con_file = glob.glob(os.path.join(datapath,"conflicts_*.csv"))[0]
+    
+    X = np.genfromtxt(inv_con_file,delimiter=",")
+    
+    Y = np.genfromtxt(con_file,delimiter=",")
 
 
-    return dataset
+    return X,Y
     
+def load_knowledge(datapath):
     
-def check_data(datasource,dataid):
-    X,Y = loadfiles(datasource,dataid)
+    #TODO
+    return None
+
+
+def check_data(datapath):
+    X,Y = load_data(datapath)
+    
     if (X.shape[0] == Y.shape[0]) and (X.shape[1] == Y.shape[1]):
         print("Number of rows: ", X.shape[0], " Number of cols: ", X.shape[1])
 
@@ -79,9 +106,7 @@ def check_data(datasource,dataid):
 
     
 if __name__=="__main__":
-    datasource = "arcade"
-    dataid = "48752"
-
-    check_data(datasource,dataid)
+    datapath = "../data/busybox/655"
+    check_data(datapath)
     
 
