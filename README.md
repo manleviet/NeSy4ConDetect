@@ -26,12 +26,15 @@ Output: conflicts.csv
 
 ## 655.zip
 
-655 rows
+655 rows 
 684 columns
 First column - id
 
 one conflict set for each invalid configuration.
 
+conflict set sizes:  1.0 - 4.0
+conflicts per sample: 1 - 1
+ 
 ## 126725.zip
 
 126725 rows
@@ -40,6 +43,9 @@ First column - id
 
 one invalid configurations have multiple conflict sets.
 each row is a conflict set.
+
+conflict set sizes:  1.0 - 4.0
+conflicts per sample: 1 - 32
 
 ## arcade-game
 bao gồm tổng cộng 61 features
@@ -55,6 +61,9 @@ First column - id
 
 one conflict set for each invalid configuration.
 
+conflict set sizes:  1.0 - 6.0
+conflicts per sample: 1 - 1
+
 ### 48752.zip
 
 48752 rows
@@ -63,3 +72,8 @@ First column - id
 
 one invalid configurations have multiple conflict sets.
 each row is a conflict set.
+
+conflict set sizes:  1.0 - 7.0
+conflicts per sample: 1 - 16
+
+
