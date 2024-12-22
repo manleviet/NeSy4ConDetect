@@ -82,6 +82,7 @@ class RBMSAT():
         self.W = np.transpose(self.W)
 
         # convert to tensorflow format
+        # TODO tf -> torch
         self.W_tf = tf.convert_to_tensor(self.W,dtype=tf.float32)
         self.hb_tf = tf.convert_to_tensor(self.hb,dtype=tf.float32)
         self.xb_tf = tf.convert_to_tensor(self.xb,dtype=tf.float32)
@@ -188,7 +189,7 @@ class RBMSAT():
     
 if __name__=="__main__":
     fs = "../data/busybox/kb/busybox.dimacs"
-    dr = DIMACSReader(fn)
+    dr = DIMACSReader(fs)
     print(dr.n_vars)
     #rbmsat = RBMSAT(n)
 
