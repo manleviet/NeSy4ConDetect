@@ -1,3 +1,7 @@
+"""
+MIGRATED to conflict-diagnosis-learning-benchmark repository
+"""
+
 import pickle
 from typing import Dict
 

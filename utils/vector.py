@@ -1,3 +1,7 @@
+"""
+MIGRATED to conflict-diagnosis-learning-benchmark repository
+"""
+
 from typing import Dict, List
 
 from utils.utils import read_and_split, assert_correct_convert, OutputType, FileType, split

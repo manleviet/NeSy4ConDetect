@@ -1,4 +1,5 @@
 """
+MIGRATED to conflict-diagnosis-learning-benchmark repository
 prepare list of paths for all invalid configuration files
 each line is a pair of invalid configuration file path and the corresponding conflict file path
 """

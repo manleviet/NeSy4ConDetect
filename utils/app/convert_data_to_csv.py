@@ -1,4 +1,5 @@
 """
+MIGRATED to conflict-diagnosis-learning-benchmark repository
 Read data from both conflict and diagnosis folders
 Convert the data to vectors
 """

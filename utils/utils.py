@@ -1,3 +1,7 @@
+"""
+MIGRATED to conflict-diagnosis-learning-benchmark repository
+"""
+
 import csv
 import pickle
 from enum import Enum
