@@ -1,3 +1,6 @@
+"""
+MIGRATED to conflict-diagnosis-learning-benchmark repository
+"""
 import argparse
 
 from utils.dimacs import read_all_leaf_features
@@ -10,8 +13,7 @@ INVALID_CONF_FILE = '%s/conflict/invalid_confs/txt/invalid_conf_1_1.txt' % ROOT_
 INDEX_FILE = '%s/kb/<kb_name>_leaf.index' % ROOT_PATH
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(prog='Create index file',
-                                     description='Create index file.')
+    parser = argparse.ArgumentParser("data\/0-feature_models\/uvlhub_bulk_2025_03_23\/dataset_49\/uvl\/fqa.uvl")
     parser.add_argument('--kb_name', type=str,
                         help='Knowledge base name - busybox')
     args = parser.parse_args()

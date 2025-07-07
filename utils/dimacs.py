@@ -1,3 +1,7 @@
+"""
+MIGRATED to conflict-diagnosis-learning-benchmark repository
+"""
+
 from typing import Dict
 
 from utils.utils import read_text_file
